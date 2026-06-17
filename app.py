@@ -1390,23 +1390,23 @@ def render_atencao():
             "acesso aberto de qualidade cobra); só pesa aqui combinado à ausência total de "
             "indexação.", unsafe_allow_html=True)
 
-    cont = ap["classe"].value_counts()
-    tot = max(len(ap), 1)
+    art = ap.groupby("classe")["n"].sum()    # artigos por classe (ap["n"] = artigos/periódico)
+    tot = max(int(art.sum()), 1)
 
-    def _v(classe):                       # "2.082 · 78,4%" — fatia entre os periódicos
-        nn = int(cont.get(classe, 0))
+    def _v(classe):                          # "4.968 · 72,1%" — fatia entre os artigos
+        nn = int(art.get(classe, 0))
         return f"{br(nn)} · {pct(nn / tot, 1)}"
 
     c1, c2, c3 = st.columns(3)
     c1.metric("Indexadas", _v("Indexada"),
-              help="Reúnem ao menos um sinal de curadoria (DOAJ, Scimago ou estilo-Qualis). "
-                   "% entre os periódicos do período.")
+              help="Artigos em revistas com ao menos um sinal de curadoria (DOAJ, Scimago ou "
+                   "estilo-Qualis). % entre os artigos do período.")
     c2.metric("Verificar", _v("Verificar"),
-              help="Sem sinais de indexação e sem APC — em geral periódicos nacionais. "
-                   "% entre os periódicos do período.")
+              help="Artigos em revistas sem sinais de indexação e sem APC — em geral "
+                   "periódicos nacionais. % entre os artigos do período.")
     c3.metric("Atenção", _v("Atenção"),
-              help="Sem nenhum sinal de indexação e cobram APC — merecem checagem manual. "
-                   "% entre os periódicos do período.")
+              help="Artigos em revistas sem nenhum sinal de indexação e que cobram APC — "
+                   "merecem checagem manual. % entre os artigos do período.")
 
     rot = {"source": "Periódico", "n": "Trabalhos UFTM", "doaj": "DOAJ",
            "scimago": "Scimago", "qualis_estilo": "Estilo Qualis", "apc": "Cobra APC",
@@ -1430,7 +1430,7 @@ def render_atencao():
         st.success("Nenhum periódico na fila de atenção no período filtrado.")
 
     with st.expander(f"Periódicos a verificar (sem indexação, sem APC) — "
-                     f"{int(cont.get('Verificar', 0))}"):
+                     f"{int((ap['classe'] == 'Verificar').sum())} revistas"):
         vf = ap[ap["classe"] == "Verificar"].sort_values("n", ascending=False).head(50)
         st.dataframe(vf[["source", "n", "retratacoes", "citacao_media"]].rename(columns=rot),
                      hide_index=True, width="stretch")
