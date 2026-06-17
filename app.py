@@ -1393,9 +1393,9 @@ def render_atencao():
     art = ap.groupby("classe")["n"].sum()    # artigos por classe (ap["n"] = artigos/periódico)
     tot = max(int(art.sum()), 1)
 
-    def _v(classe):                          # "4.968 · 72,1%" — fatia entre os artigos
+    def _v(classe):                          # "4.968 (72,1%)" — fatia entre os artigos
         nn = int(art.get(classe, 0))
-        return f"{br(nn)} · {pct(nn / tot, 1)}"
+        return f"{br(nn)} ({pct(nn / tot, 1)})"
 
     c1, c2, c3 = st.columns(3)
     c1.metric("Indexadas", _v("Indexada"),
