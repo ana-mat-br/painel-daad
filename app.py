@@ -178,7 +178,8 @@ def load_obs(sig):
              "scimago_quartis", "rede_autores_nos", "rede_autores_arestas",
              "lens_patentes", "portfolio_uftm",
              "citescore_analogo", "citescore_oficial", "qualis_estilo", "bdtd_uftm",
-             "openalex_teses_uftm", "openalex_diss_pares", "crossref_teses_doi"]
+             "openalex_teses_uftm", "openalex_diss_pares", "crossref_teses_doi",
+             "atencao_periodicos"]
     return {n: (pd.read_csv(DATA / f"{n}.csv") if (DATA / f"{n}.csv").exists() else None)
             for n in nomes}
 
@@ -386,12 +387,14 @@ with st.sidebar:
     NAV = ["Visão Geral", "Impacto científico", "Comparação", "Ciência Aberta", "Impacto Social",
            "Financiamento", "Patentes", "Pesquisadores", "Colaboração", "Temas",
            "Dissertações e Teses",
-           "Onde publicamos", "Qualidade das revistas", "Publicações por língua", "Explorar",
+           "Onde publicamos", "Qualidade das revistas", "Triagem de periódicos",
+           "Publicações por língua", "Explorar",
            "Transparência"]
     ICONS = ["speedometer2", "award", "bar-chart-line", "unlock", "globe-americas",
              "cash-coin", "lightbulb", "person-badge", "diagram-3", "tags",
              "mortarboard",
-             "journal-text", "patch-check", "translate", "search", "info-circle"]
+             "journal-text", "patch-check", "exclamation-triangle",
+             "translate", "search", "info-circle"]
     _override = st.session_state.pop("ir_para", None)  # navegação por link (ex.: rodapé)
     # key dependente do conteúdo+estilo: força o re-render quando ordem/ícones/visual mudam
     _menu_sig = hashlib.md5(("|".join(NAV) + "|".join(ICONS) + "estilo-v3").encode()).hexdigest()[:8]
@@ -1320,6 +1323,124 @@ def render_qualidade():
                     "Scopus (login) — fora do alcance automático."))
 
 
+def render_atencao():
+    cabecalho("Triagem de periódicos",
+              "Periódicos por sinais de indexação — uma tela de checagem, não uma acusação")
+    sq = obs.get("scimago_quartis")
+    if sq is None or "issn_l" not in fraw.columns:
+        st.info("Rode `python fetch_scimago.py` para baixar os quartis Scimago.")
+        return
+    # mesmos critérios de fetch_atencao.py, calculados ao vivo p/ respeitar o filtro de período
+    f = fraw[(fraw["type"] == "article") & fraw["issn_l"].notna()
+             & fraw["source"].notna()].copy()
+    if not len(f):
+        st.info("Nenhum artigo em periódico no período filtrado.")
+        return
+    f["issn"] = f["issn_l"].str.replace("-", "", regex=False).str.upper()
+    tem_sci = set(sq["issn"].astype(str).str.replace("-", "", regex=False).str.upper())
+    qe = obs.get("qualis_estilo")
+    tem_qe = (set(qe["issn"].astype(str).str.replace("-", "", regex=False).str.upper())
+              if qe is not None and len(qe) else set())
+    ap = f.groupby(["source", "issn"]).agg(
+        n=("issn", "size"),
+        doaj=("in_doaj", lambda s: bool((s == True).any())),
+        apc=("apc_usd", lambda s: bool((s.fillna(0) > 0).any())),
+        retratacoes=("is_retracted", lambda s: int((s == True).sum())),
+        citacao_media=("cited_by", "mean"),
+    ).reset_index()
+    ap["doaj"] = ap["doaj"].astype(bool)
+    ap["scimago"] = ap["issn"].isin(tem_sci)
+    ap["qualis_estilo"] = ap["issn"].isin(tem_qe)
+    ap["citacao_media"] = ap["citacao_media"].round(1)
+    sinais = ap[["doaj", "scimago", "qualis_estilo"]].sum(axis=1)
+    ap["classe"] = ["Indexada" if s >= 1 else ("Atenção" if a else "Verificar")
+                    for s, a in zip(sinais, ap["apc"])]
+
+    st.markdown(
+        f"<div style='background:{T['green_tint']};border-left:3px solid {T['primary']};"
+        f"padding:.7rem 1rem;border-radius:6px;margin:.2rem 0 1rem'>"
+        f"<b>Isto NÃO é uma lista de revistas predatórias.</b> Não existe lista aberta e "
+        f"autoritativa desse tipo (a Beall's List saiu do ar em 2017; a referência curada "
+        f"atual, a Cabells, é paga). Rotular uma revista como predatória é uma acusação, e "
+        f"erro de classificação é injusto. Por isso medimos o contrário: <b>quais sinais de "
+        f"curadoria</b> cada periódico reúne. Quem não reúne nenhum entra numa fila de "
+        f"<b>checagem manual</b> — nunca um veredito automático.</div>",
+        unsafe_allow_html=True)
+
+    with st.expander("Critérios explícitos — como cada periódico é classificado"):
+        st.markdown(
+            "Três **sinais de curadoria**, todos com dados abertos (qualquer um já indica "
+            "que a revista passa por algum crivo):\n"
+            "- **DOAJ** — a revista está no *Directory of Open Access Journals*, que **expulsa "
+            "periódicos predatórios** (sinal forte);\n"
+            "- **Quartil Scimago** — indexada na Scopus com quartil SJR (Q1–Q4);\n"
+            "- **Estilo Qualis** — tem percentil de área pelo CiteScore-análogo (aberto).\n\n"
+            "Classificação (por periódico, ligada pelo ISSN):\n"
+            f"- <span style='color:{T['primary']};font-weight:700'>Indexada</span> — "
+            "reúne **pelo menos 1** sinal de curadoria;\n"
+            f"- <span style='color:{T['accent']};font-weight:700'>Atenção</span> — "
+            "**nenhum** sinal **e cobra APC** (taxa de publicação);\n"
+            f"- <span style='color:{T['muted']};font-weight:700'>Verificar</span> — "
+            "**nenhum** sinal e **não cobra** APC (em geral periódico nacional legítimo fora "
+            "dessas bases internacionais).\n\n"
+            "**Limites honestos:** a cobertura das bases é parcial e o cruzamento por ISSN "
+            "falha às vezes — uma revista séria e muito citada pode cair em *Atenção* só por "
+            "não casar o ISSN. Por isso a tabela mostra a **citação média**: número alto = "
+            "quase certamente um falso-positivo. Cobrar APC é **comum e legítimo** (todo o "
+            "acesso aberto de qualidade cobra); só pesa aqui combinado à ausência total de "
+            "indexação.", unsafe_allow_html=True)
+
+    cont = ap["classe"].value_counts()
+    tot = max(len(ap), 1)
+
+    def _v(classe):                       # "2.082 · 78,4%" — fatia entre os periódicos
+        nn = int(cont.get(classe, 0))
+        return f"{br(nn)} · {pct(nn / tot, 1)}"
+
+    c1, c2, c3 = st.columns(3)
+    c1.metric("Indexadas", _v("Indexada"),
+              help="Reúnem ao menos um sinal de curadoria (DOAJ, Scimago ou estilo-Qualis). "
+                   "% entre os periódicos do período.")
+    c2.metric("Verificar", _v("Verificar"),
+              help="Sem sinais de indexação e sem APC — em geral periódicos nacionais. "
+                   "% entre os periódicos do período.")
+    c3.metric("Atenção", _v("Atenção"),
+              help="Sem nenhum sinal de indexação e cobram APC — merecem checagem manual. "
+                   "% entre os periódicos do período.")
+
+    rot = {"source": "Periódico", "n": "Trabalhos UFTM", "doaj": "DOAJ",
+           "scimago": "Scimago", "qualis_estilo": "Estilo Qualis", "apc": "Cobra APC",
+           "retratacoes": "Retratações", "citacao_media": "Citação média"}
+    colunas = ["source", "n", "doaj", "scimago", "qualis_estilo", "apc",
+               "retratacoes", "citacao_media"]
+    cfg = {"DOAJ": st.column_config.CheckboxColumn(),
+           "Scimago": st.column_config.CheckboxColumn(),
+           "Estilo Qualis": st.column_config.CheckboxColumn(),
+           "Cobra APC": st.column_config.CheckboxColumn()}
+
+    st.subheader("Fila de atenção — checagem manual recomendada")
+    at = ap[ap["classe"] == "Atenção"].sort_values("n", ascending=False)
+    if len(at):
+        st.dataframe(at[colunas].rename(columns=rot), hide_index=True,
+                     width="stretch", column_config=cfg)
+        st.caption("Leia com cuidado: *Atenção* significa **ausência de sinais + APC**, não "
+                   "predação. Olhe a citação média e o nome — um periódico conhecido e citado "
+                   "aqui é falso-positivo por ISSN não casado nas bases.")
+    else:
+        st.success("Nenhum periódico na fila de atenção no período filtrado.")
+
+    with st.expander(f"Periódicos a verificar (sem indexação, sem APC) — "
+                     f"{int(cont.get('Verificar', 0))}"):
+        vf = ap[ap["classe"] == "Verificar"].sort_values("n", ascending=False).head(50)
+        st.dataframe(vf[["source", "n", "retratacoes", "citacao_media"]].rename(columns=rot),
+                     hide_index=True, width="stretch")
+        st.caption("Em geral são periódicos nacionais legítimos fora da Scopus/DOAJ. "
+                   "Mostrando os 50 com mais trabalhos da UFTM.")
+
+    st.caption("Triagem sobre os artigos do período. Sinais cruzados por ISSN: DOAJ e APC do "
+               "OpenAlex; quartil do Scimago/SJR; estilo-Qualis do CiteScore-análogo aberto.")
+
+
 def render_idiomas():
     cabecalho("Publicações por língua", "Em que idiomas a pesquisa da UFTM é publicada")
     if "language" not in fraw.columns or not fraw["language"].notna().any():
@@ -1673,6 +1794,7 @@ PAGINAS = {
     "Temas": render_temas, "Dissertações e Teses": render_dissertacoes,
     "Onde publicamos": render_periodicos,
     "Qualidade das revistas": render_qualidade,
+    "Triagem de periódicos": render_atencao,
     "Publicações por língua": render_idiomas, "Explorar": render_explorar,
     "Transparência": render_transparencia,
 }
