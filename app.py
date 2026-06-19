@@ -92,7 +92,38 @@ SUBAREA_PT = {
     "Condensed Matter Physics": "Física da Matéria Condensada", "Diversos": "Diversos",
 }
 
-# Tópicos do OpenAlex (EN) -> PT — mais específico que a subárea, distingue melhor os grupos
+# Grandes áreas do OpenAlex (EN) -> PT — conjunto fixo de 26 campos (ASJC/Scopus)
+CAMPO_PT = {
+    "Medicine": "Medicina",
+    "Social Sciences": "Ciências Sociais",
+    "Decision Sciences": "Ciências da Decisão",
+    "Biochemistry, Genetics and Molecular Biology": "Bioquímica, Genética e Biologia Molecular",
+    "Physics and Astronomy": "Física e Astronomia",
+    "Materials Science": "Ciência dos Materiais",
+    "Environmental Science": "Ciências Ambientais",
+    "Health Professions": "Profissões da Saúde",
+    "Dentistry": "Odontologia",
+    "Engineering": "Engenharia",
+    "Immunology and Microbiology": "Imunologia e Microbiologia",
+    "Agricultural and Biological Sciences": "Ciências Agrárias e Biológicas",
+    "Neuroscience": "Neurociência",
+    "Energy": "Energia",
+    "Psychology": "Psicologia",
+    "Nursing": "Enfermagem",
+    "Economics, Econometrics and Finance": "Economia, Econometria e Finanças",
+    "Computer Science": "Ciência da Computação",
+    "Business, Management and Accounting": "Administração, Gestão e Contabilidade",
+    "Chemistry": "Química",
+    "Pharmacology, Toxicology and Pharmaceutics": "Farmacologia, Toxicologia e Farmácia",
+    "Chemical Engineering": "Engenharia Química",
+    "Earth and Planetary Sciences": "Ciências da Terra e Planetárias",
+    "Arts and Humanities": "Artes e Humanidades",
+    "Mathematics": "Matemática",
+    "Veterinary": "Veterinária",
+}
+
+# Tópicos do OpenAlex (EN) -> PT — mais específico que a subárea, distingue melhor os grupos.
+# Cobre os ~100 tópicos mais frequentes na UFTM; o que não estiver aqui fica no original (inglês).
 TOPICO_PT = {
     "Trypanosoma species research and implications": "Doença de Chagas",
     "Health, Nursing, Elderly Care": "Enfermagem e Saúde do Idoso",
@@ -103,6 +134,110 @@ TOPICO_PT = {
     "Science and Education Research": "Ensino de Ciências",
     "Psychology and Mental Health": "Psicologia e Saúde Mental",
     "Physical Education and Sports Studies": "Educação Física e Esportes",
+    "Education Pedagogy and Practices": "Pedagogia e Práticas de Ensino",
+    "Linguistics and Education Research": "Linguística e Educação",
+    "Education and Digital Technologies": "Educação e Tecnologias Digitais",
+    "Environmental Sustainability and Education": "Sustentabilidade Ambiental e Educação",
+    "Youth, Drugs, and Violence": "Juventude, Drogas e Violência",
+    "Occupational Health and Burnout": "Saúde Ocupacional e Burnout",
+    "Maternal and Neonatal Healthcare": "Saúde Materna e Neonatal",
+    "Sports Performance and Training": "Desempenho Esportivo e Treinamento",
+    "Health Education and Validation": "Educação em Saúde e Validação de Instrumentos",
+    "Business and Management Studies": "Administração e Gestão",
+    "Healthcare during COVID-19 Pandemic": "Saúde na Pandemia de COVID-19",
+    "Physical Education and Gymnastics": "Educação Física e Ginástica",
+    "Palliative and Oncologic Care": "Cuidados Paliativos e Oncológicos",
+    "Women's cancer prevention and management": "Prevenção do Câncer na Mulher",
+    "Fungal Infections and Studies": "Infecções Fúngicas",
+    "Research on Leishmaniasis Studies": "Leishmaniose",
+    "Agricultural and Food Sciences": "Ciências Agrárias e de Alimentos",
+    "Nutrition and Health in Aging": "Nutrição e Saúde no Envelhecimento",
+    "Education and Public Policy": "Educação e Políticas Públicas",
+    "Breastfeeding Practices and Influences": "Aleitamento Materno",
+    "Public Health in Brazil": "Saúde Pública no Brasil",
+    "Education during COVID-19 pandemic": "Educação na Pandemia de COVID-19",
+    "Soil Management and Crop Yield": "Manejo do Solo e Produtividade Agrícola",
+    "Healthcare Regulation": "Regulação em Saúde",
+    "Academic Research in Diverse Fields": "Pesquisa Acadêmica (diversos campos)",
+    "Rural and Ethnic Education": "Educação Rural e Étnica",
+    "Gender, Sexuality, and Education": "Gênero, Sexualidade e Educação",
+    "Rural Development and Agriculture": "Desenvolvimento Rural e Agricultura",
+    "Growth and nutrition in plants": "Crescimento e Nutrição de Plantas",
+    "Heart Rate Variability and Autonomic Control": "Variabilidade da Frequência Cardíaca",
+    "Obesity, Physical Activity, Diet": "Obesidade, Atividade Física e Dieta",
+    "Cardiovascular and exercise physiology": "Fisiologia Cardiovascular e do Exercício",
+    "Exercise and Physiological Responses": "Exercício e Respostas Fisiológicas",
+    "Frailty in Older Adults": "Fragilidade em Idosos",
+    "Balance, Gait, and Falls Prevention": "Equilíbrio, Marcha e Prevenção de Quedas",
+    "Social and Political Issues": "Questões Sociais e Políticas",
+    "Fish biology, ecology, and behavior": "Biologia e Ecologia de Peixes",
+    "Hemoglobinopathies and Related Disorders": "Hemoglobinopatias",
+    "Musculoskeletal pain and rehabilitation": "Dor Musculoesquelética e Reabilitação",
+    "Children's Physical and Motor Development": "Desenvolvimento Motor Infantil",
+    "Parasites and Host Interactions": "Parasitas e Interação com Hospedeiros",
+    "Infant Development and Preterm Care": "Desenvolvimento Infantil e Prematuridade",
+    "HIV/AIDS Research and Interventions": "HIV/AIDS",
+    "Cerebral Palsy and Movement Disorders": "Paralisia Cerebral e Distúrbios do Movimento",
+    "Toxoplasma gondii Research Studies": "Toxoplasmose",
+    "Paleontology and Evolutionary Biology": "Paleontologia e Biologia Evolutiva",
+    "Cultural, Media, and Literary Studies": "Estudos Culturais, de Mídia e Literários",
+    "Pregnancy and preeclampsia studies": "Gravidez e Pré-eclâmpsia",
+    "Urban Development and Societal Issues": "Desenvolvimento Urbano e Questões Sociais",
+    "HIV-related health complications and treatments": "Complicações e Tratamentos do HIV",
+    "Endometriosis Research and Treatment": "Endometriose",
+    "Male Reproductive Health Studies": "Saúde Reprodutiva Masculina",
+    "Literature, Culture, and Criticism": "Literatura, Cultura e Crítica",
+    "Mosquito-borne diseases and control": "Doenças Transmitidas por Mosquitos",
+    "Probiotics and Fermented Foods": "Probióticos e Alimentos Fermentados",
+    "Tuberculosis Research and Epidemiology": "Tuberculose",
+    "Particle physics theoretical and experimental studies": "Física de Partículas",
+    "Multiple Sclerosis Research Studies": "Esclerose Múltipla",
+    "Eating Disorders and Behaviors": "Transtornos Alimentares",
+    "Crustacean biology and ecology": "Biologia e Ecologia de Crustáceos",
+    "Thermochemical Biomass Conversion Processes": "Conversão Termoquímica de Biomassa",
+    "Health disparities and outcomes": "Desigualdades em Saúde",
+    "Renal Diseases and Glomerulopathies": "Doenças Renais e Glomerulopatias",
+    "Occupational Therapy Practice and Research": "Terapia Ocupacional",
+    "Child Welfare and Adoption": "Proteção à Infância e Adoção",
+    "Geography and Environmental Studies": "Geografia e Estudos Ambientais",
+    "Ovarian cancer diagnosis and treatment": "Câncer de Ovário",
+    "Evasion and Academic Success Factors": "Evasão e Sucesso Acadêmico",
+    "Health and Lifestyle Studies": "Saúde e Estilo de Vida",
+    "Quantum Dots Synthesis And Properties": "Pontos Quânticos",
+    "Science and Science Education": "Ciência e Ensino de Ciências",
+    "Cerebrospinal fluid and hydrocephalus": "Líquido Cefalorraquidiano e Hidrocefalia",
+    "Analytic Number Theory Research": "Teoria Analítica dos Números",
+    "Sperm and Testicular Function": "Função Espermática e Testicular",
+    "Sports injuries and prevention": "Lesões Esportivas e Prevenção",
+    "Diphtheria, Corynebacterium, and Tetanus": "Difteria, Corynebacterium e Tétano",
+    "Chronic Obstructive Pulmonary Disease (COPD) Research": "Doença Pulmonar Obstrutiva Crônica (DPOC)",
+    "Social and Economic Solidarity": "Solidariedade Social e Econômica",
+    "Syphilis Diagnosis and Treatment": "Sífilis",
+    "Acute Ischemic Stroke Management": "AVC Isquêmico Agudo",
+    "Intimate Partner and Family Violence": "Violência Doméstica e Familiar",
+    "Plant and animal studies": "Estudos de Plantas e Animais",
+    "Congenital Heart Disease Studies": "Cardiopatias Congênitas",
+    "COVID-19 Impact on Reproduction": "Impacto da COVID-19 na Reprodução",
+    "Chemistry Education and Research": "Ensino e Pesquisa em Química",
+    "Environmental and biological studies": "Estudos Ambientais e Biológicos",
+    "COVID-19 and Mental Health": "COVID-19 e Saúde Mental",
+    "Leprosy Research and Treatment": "Hanseníase",
+    "Central Venous Catheters and Hemodialysis": "Cateteres Venosos Centrais e Hemodiálise",
+    "Orthopedic Surgery and Rehabilitation": "Cirurgia Ortopédica e Reabilitação",
+    "Religion, Spirituality, and Psychology": "Religião, Espiritualidade e Psicologia",
+    "Weed Control and Herbicide Applications": "Controle de Plantas Daninhas e Herbicidas",
+    "Metal and Thin Film Mechanics": "Mecânica de Metais e Filmes Finos",
+    "Maternal and Perinatal Health Interventions": "Intervenções em Saúde Materna e Perinatal",
+    "Race, Identity, and Education in Brazil": "Raça, Identidade e Educação no Brasil",
+    "Religion and Society in Latin America": "Religião e Sociedade na América Latina",
+    "Patient Safety and Medication Errors": "Segurança do Paciente e Erros de Medicação",
+    "COVID-19 Clinical Research Studies": "Pesquisa Clínica sobre COVID-19",
+    "Ovarian function and disorders": "Função e Distúrbios Ovarianos",
+    "Arts and Performance Studies": "Artes e Estudos da Performance",
+    "Sleep and related disorders": "Sono e Distúrbios Relacionados",
+    "Advanced oxidation water treatment": "Tratamento de Água por Oxidação Avançada",
+    "Pharmacogenetics and Drug Metabolism": "Farmacogenética e Metabolismo de Fármacos",
+    "Long-Term Effects of COVID-19": "Efeitos de Longo Prazo da COVID-19",
 }
 
 # Códigos de idioma (ISO 639-1) -> PT
@@ -935,15 +1070,20 @@ def render_ods():
 def render_temas():
     cabecalho("Temas", "As áreas e assuntos em que a UFTM mais pesquisa")
     st.caption("**Como ler** · As grandes áreas do conhecimento (Medicina, Ciências Sociais...) e "
-               "os assuntos específicos mais frequentes nas pesquisas da UFTM.")
-    tc = obs.get("temas_campo")
-    if tc is None:
+               "os assuntos específicos mais frequentes nas pesquisas da UFTM. Os gráficos seguem "
+               "o **período** escolhido na barra lateral.")
+    if "field" not in fraw.columns or not len(fraw):
         st.info("Rode `python fetch_observatorio.py` para os dados de temas.")
         return
+
     st.subheader("Por grande área do conhecimento")
+    tc = (fraw["field"].dropna().map(lambda c: CAMPO_PT.get(c, c))
+          .value_counts().rename_axis("campo").reset_index(name="n"))
     st.plotly_chart(barra_h(tc.head(15), "campo", "n", h=460), width="stretch")
+
     st.subheader("Tópicos mais frequentes")
-    tt = obs["temas_topicos"]
+    tt = (fraw["topic"].dropna().map(lambda t: TOPICO_PT.get(t, t))
+          .value_counts().rename_axis("topico").reset_index(name="n"))
     st.plotly_chart(barra_h(tt.head(20), "topico", "n", h=540, cor=T["secondary"]),
                     width="stretch")
 
@@ -960,6 +1100,7 @@ def render_temas():
         df["cresc"] = df["recente"] - df["anterior"]
         emg = df.sort_values("cresc", ascending=False).head(12).reset_index()
         emg.columns = ["topico", "recente", "anterior", "cresc"]
+        emg["topico"] = emg["topico"].map(lambda t: TOPICO_PT.get(t, t))
         if len(emg):
             st.plotly_chart(barra_h(emg, "topico", "cresc", h=460),
                             width="stretch")
