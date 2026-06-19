@@ -314,7 +314,7 @@ def load_obs(sig):
              "lens_patentes", "portfolio_uftm",
              "citescore_analogo", "citescore_oficial", "qualis_estilo", "bdtd_uftm",
              "openalex_teses_uftm", "openalex_diss_pares", "crossref_teses_doi",
-             "atencao_periodicos"]
+             "atencao_periodicos", "bdtd_sdg"]
     return {n: (pd.read_csv(DATA / f"{n}.csv") if (DATA / f"{n}.csv").exists() else None)
             for n in nomes}
 
@@ -1170,6 +1170,27 @@ def render_dissertacoes():
         st.caption("Área informada na BDTD (classificação CNPq). Parte dos registros mais "
                    "antigos não traz a área — por isso a soma aqui é menor que o total.")
 
+    bsdg = obs.get("bdtd_sdg")
+    if bsdg is not None and len(bsdg) and "id" in bdf.columns:
+        st.subheader("Impacto social — Objetivos de Desenvolvimento Sustentável (ODS)")
+        st.caption("**Como ler** · A quais dos 17 **ODS da ONU** as teses e dissertações da "
+                   "UFTM mais se relacionam. A associação é uma **estimativa por inteligência "
+                   "artificial** — aplicamos aqui o **mesmo classificador que o OpenAlex usa** "
+                   "nas demais abas (modelo Aurora SDG mBERT, sobre título + resumo, corte 0.4). "
+                   "Como as teses não têm DOI, o OpenAlex quase não as enxerga — por isso "
+                   "rodamos o modelo diretamente sobre a BDTD. Segue o **período** da barra lateral.")
+        sd = bsdg[bsdg["id"].isin(bdf["id"])].copy()
+        n_sdg = sd["id"].nunique()
+        c1, c2 = st.columns(2)
+        c1.metric("Teses ligadas a ODS", br(n_sdg),
+                  f"{n_sdg/max(len(bdf),1):.0%} do período")
+        c2.metric("ODS distintos", f"{sd['sdg_id'].nunique()} de 17")
+        sd["ODS"] = sd["sdg_id"].map(lambda x: f"{int(x)}. {ODS_PT.get(int(x), '')}")
+        po = sd.groupby("ODS")["id"].nunique().reset_index(name="n")
+        st.plotly_chart(barra_h(po, "ODS", "n", h=520), width="stretch")
+        st.caption("Cada tese pode contar para mais de um ODS (todos com score ≥ 0,4). "
+                   "Classificação computada pelo painel — veja a *Metodologia* ao final.")
+
     st.subheader("Explorar teses e dissertações")
     b1, b2 = st.columns([3, 2])
     busca = b1.text_input("Buscar por título, autor ou palavra-chave",
@@ -1215,6 +1236,15 @@ def render_dissertacoes():
             "**OpenAlex**, que indexa sobretudo o que tem **DOI**. As teses da UFTM estão no "
             "repositório **sem DOI** — por isso o OpenAlex enxerga só cerca de **19** delas, "
             f"contra as **{br(len(bd))}** que existem na BDTD. Esta aba mostra o quadro completo.\n\n"
+            "**Classificação por ODS.** O gráfico de **Objetivos de Desenvolvimento "
+            "Sustentável** desta aba é gerado pelo painel aplicando às teses o **mesmo "
+            "classificador que o OpenAlex usa** no resto do site: o modelo **Aurora SDG mBERT** "
+            "(multilíngue, aberto — Zenodo 7304547, CC-BY 4.0), que lê **título + resumo** e "
+            "atribui cada ODS com **score ≥ 0,4** (o limiar do próprio OpenAlex). Como as teses "
+            "não têm DOI e quase não entram no OpenAlex, rodamos o modelo diretamente sobre a "
+            "BDTD (coletor `fetch_bdtd_sdg.py`). Os rótulos são uma **estimativa por IA** — uma "
+            "aproximação, não uma declaração dos autores; e por usarmos o resumo em português "
+            "(onde o OpenAlex às vezes tem versão em inglês), pode haver pequenas diferenças.\n\n"
             "**Limitações.** A grande área (CNPq) só consta de parte dos registros (os mais "
             "antigos podem não trazê-la); contamos o **autor primário** (o orientando); o ano é "
             "o de defesa/depósito informado na BDTD.\n\n"

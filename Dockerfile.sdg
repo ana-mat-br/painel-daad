@@ -1,0 +1,24 @@
+# Ambiente isolado para rodar o classificador Aurora SDG mBERT (mesmo do OpenAlex).
+# O stack e antigo e so existe para linux/amd64 + Python 3.10 — por isso fica num container,
+# fora do Python 3.14/arm64 da maquina. Uso unico/offline; nao entra no deploy do Streamlit.
+# Python 3.9: tokenizers 0.10.x e tensorflow-cpu 2.9.3 tem wheels prontos para cp39/amd64,
+# evitando compilar tokenizers via Rust (que falha em 3.10+).
+FROM --platform=linux/amd64 python:3.9-slim
+
+WORKDIR /app
+
+# Ordem de instalacao importa: numpy/protobuf compativeis com TF 2.9.3 antes do resto.
+RUN pip install --no-cache-dir \
+        "numpy==1.23.5" "protobuf==3.19.6" \
+        "tensorflow-cpu==2.9.3" \
+        "tokenizers==0.10.3" \
+        "transformers==4.9.2" \
+        "nltk==3.6.2" \
+        "pandas==1.5.3" \
+        "huggingface-hub==0.0.12"
+
+# Baixa o tokenizer mBERT e os dados do NLTK na build (evita rede no run, se possivel)
+RUN python -c "from transformers import BertTokenizer; BertTokenizer.from_pretrained('bert-base-multilingual-uncased')" || true
+RUN python -c "import nltk; nltk.download('punkt'); nltk.download('punkt_tab')" || true
+
+CMD ["python", "fetch_bdtd_sdg.py"]

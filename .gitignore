@@ -20,3 +20,6 @@ data/_webometrics_raw.html
 # Arquivo bruto baixado do Scimago Institutions (intermediario; o CSV final e versionado)
 sir_*.xls
 sir_*.xlsx
+
+# Modelo Aurora SDG mBERT (2 GB, baixado do Zenodo 7304547; o CSV classificado e versionado)
+models/
