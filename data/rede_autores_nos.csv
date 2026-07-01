@@ -1,134 +1,133 @@
 id,nome,works,x,y,grau,betw,comunidade,grupo,topico
-f|virmondes|rodrigues,Virmondes Rodrigues,215,-0.1604,0.2117,445,0.0281,0,Epidemiology,Trypanosoma species research and implications
-i|a|de paula rogerio,Alexandre de Paula Rogério,42,-0.3099,0.2586,33,0.0227,0,Epidemiology,Trypanosoma species research and implications
-i|d|fernando bovolenta ovigli,Daniel Fernando Bovolenta Ovigli,47,-0.939,0.0404,20,0.0001,9,Education,Science and Education Research
-i|a|bernadete trovo de marqui,Alessandra Bernadete Trovó de Marqui,55,-0.1319,-0.2548,16,0.0009,1,General Health Professions,"Health, Nursing, Elderly Care"
-i|m|marques dos santos felix,Márcia Marques dos Santos Félix,42,0.3323,-0.4577,74,0.0,1,General Health Professions,"Health, Nursing, Elderly Care"
-i|i|aparecida porcatti de walsh,Isabel Aparecida Porcatti de Walsh,71,0.0575,-0.4531,75,0.012,5,Neurology,Stroke Rehabilitation and Recovery
-i|s|riul da silva,Sueli Riul da Silva,65,0.3013,-0.2769,49,0.0377,1,General Health Professions,"Health, Nursing, Elderly Care"
-f|karina|pereira,Karina Pereira,34,-0.0622,-0.677,20,0.0067,5,Neurology,Stroke Rehabilitation and Recovery
-i|f|carolina ribeiro dias,Fernanda Carolina Ribeiro Dias,39,-0.9329,0.0631,2,0.0,3,Epidemiology,Cervical Cancer and HPV Research
-i|a|mario karwoski,Acir Mário Karwoski,48,-0.3988,-0.913,3,0.0,2,Materials Chemistry,Metal complexes synthesis and properties
-f|afonso|pelli,Afonso Pelli,78,0.2112,0.1803,12,0.0065,0,Epidemiology,Trypanosoma species research and implications
-i|v|modesto dos santos,Vitorino Modesto dos Santos,31,-0.0079,0.1434,39,0.0,4,Epidemiology,Trypanosoma species research and implications
-i|w|wey moreira,Wagner Wey Moreira,64,0.8085,0.1412,15,0.0,10,Education,Physical Education and Sports Studies
-i|l|resende rodrigues,Leiner Resende Rodriguês,56,0.5758,-0.1079,64,0.032,8,General Health Professions,"Health, Nursing, Elderly Care"
-f|acdm|carneiro,ACDM Carneiro,41,-0.5477,0.2329,84,0.0,6,General Health Professions,"Health, Nursing, Elderly Care"
-i|m|leon silva vergara,Mário León Silva-Vergara,107,-0.1991,0.3187,134,0.0151,0,Epidemiology,Trypanosoma species research and implications
-i|f|aparecida dias,Flávia Aparecida Dias,81,0.5163,-0.009,134,0.014,8,General Health Professions,"Health, Nursing, Elderly Care"
-i|g|vannucchi portari,Guilherme Vannucchi Portari,37,-0.2058,-0.1099,16,0.0,3,Epidemiology,Cervical Cancer and HPV Research
-i|m|aparecida spadotto balarin,Marly Aparecida Spadotto Balarin,33,-0.0871,-0.3995,16,0.0003,1,General Health Professions,"Health, Nursing, Elderly Care"
-i|m|aurelho de lima,Marcus Aurelho de Lima,36,0.1002,0.3688,25,0.0001,4,Epidemiology,Trypanosoma species research and implications
-i|r|valentim gelamo,Rogério Valentim Gelamo,93,-0.3403,-0.0072,43,0.0757,2,Materials Chemistry,Metal complexes synthesis and properties
-i|p|i s maia,Pedro I. S. Maia,63,-0.0714,0.8253,11,0.0485,2,Materials Chemistry,Metal complexes synthesis and properties
-i|r|vicente ferreira,Ricardo Vicente Ferreira,38,0.2294,0.421,6,0.0,8,General Health Professions,"Health, Nursing, Elderly Care"
-f|divanice|contim,Divanice Contim,110,0.3581,-0.1106,178,0.0504,1,General Health Professions,"Health, Nursing, Elderly Care"
-i|f|scorsolini comin,Fabio Scorsolini‐Comin,160,-0.222,-0.9842,3,0.0,11,Clinical Psychology,Psychology and Mental Health
-i|c|botelho miguel,Camila Botelho Miguel,39,-0.0129,0.3053,77,0.0018,0,Epidemiology,Trypanosoma species research and implications
-i|s|gomes novais shimano,Suraya Gomes Novais Shimano,35,0.1214,-0.5333,28,0.0146,5,Neurology,Stroke Rehabilitation and Recovery
-f|beatriz|gaydeczka,Beatriz Gaydeczka,30,-0.1008,-0.3813,14,0.0427,2,Materials Chemistry,Metal complexes synthesis and properties
-i|v|jose dias da silva,Valdo José Dias da Silva,43,-0.2369,0.4762,51,0.0244,0,Epidemiology,Trypanosoma species research and implications
-i|d|bertulucci rocha rodrigues,Denise Bertulucci Rocha Rodrigues,59,-0.2105,0.1621,147,0.0014,0,Epidemiology,Trypanosoma species research and implications
-f|dernival|bertoncello,Dernival Bertoncello,89,-0.2353,-0.4872,51,0.0129,5,Neurology,Stroke Rehabilitation and Recovery
-f|sheilla|tribess,Sheilla Tribess,63,0.4115,0.4994,94,0.0,7,Physiology,Physical Activity and Health
-i|c|bosquiero papini,Camila Bosquiero Papini,38,0.0088,0.7106,11,0.0143,7,Physiology,Physical Activity and Health
-i|b|martins tavares murta,Beatriz Martins Tavares‐Murta,37,-0.5983,-0.2254,38,0.0027,3,Epidemiology,Cervical Cancer and HPV Research
-i|j|aparecido moreto,Jéferson Aparecido Moreto,46,-0.3748,0.185,34,0.0618,2,Materials Chemistry,Metal complexes synthesis and properties
-i|m|sousa pegorari,Maycon Sousa Pegorari,34,0.4217,-0.3605,43,0.0519,8,General Health Professions,"Health, Nursing, Elderly Care"
-i|c|jose freire oliveira,Carlo José Freire Oliveira,155,-0.0503,0.2161,314,0.1875,0,Epidemiology,Trypanosoma species research and implications
-i|k|graciele dos santos,Kássia Graciele dos Santos,63,0.3925,0.2085,3,0.0,2,Materials Chemistry,Metal complexes synthesis and properties
-f|regina|simoes,Regina Simões,33,0.919,0.0296,15,0.0,10,Education,Physical Education and Sports Studies
-i|m|antoniazi michelin,Márcia Antoniazi Michelin,77,-0.5638,-0.0159,93,0.0143,3,Epidemiology,Cervical Cancer and HPV Research
-i|r|junio de oliveira,Ronaldo Junio de Oliveira,52,0.2443,0.8549,7,0.0,2,Materials Chemistry,Metal complexes synthesis and properties
-i|e|fernando candido murta,Eddie Fernando Cândido Murta,164,-0.4842,-0.0544,192,0.0082,3,Epidemiology,Cervical Cancer and HPV Research
-i|l|aparecida pascucci sande de souza,Luciane Aparecida Pascucci Sande de Souza,98,-0.1997,-0.3506,91,0.0202,5,Neurology,Stroke Rehabilitation and Recovery
-i|f|lera orsatti,Fábio Lera Orsatti,98,-0.4499,0.1307,84,0.0016,3,Epidemiology,Cervical Cancer and HPV Research
-i|m|pereira rezende,Marina Pereira Rezende,34,0.6077,-0.218,40,0.0132,1,General Health Professions,"Health, Nursing, Elderly Care"
-i|m|paula custodio silva,Maria Paula Custódio Silva,55,0.3245,-0.196,112,0.0051,1,General Health Professions,"Health, Nursing, Elderly Care"
-i|p|cristina dos santos ferreira,Pollyana Cristina dos Santos Ferreira,39,0.665,-0.0801,60,0.0022,8,General Health Professions,"Health, Nursing, Elderly Care"
-i|s|aparecida de lima pereira,Sanívia Aparecida de Lima Pereira,39,-0.2493,0.0567,64,0.0,0,Epidemiology,Trypanosoma species research and implications
-i|a|paula espindula,Ana Paula Espíndula,71,-0.08,-0.1067,87,0.0306,4,Epidemiology,Trypanosoma species research and implications
-i|a|augusto da silva,Alex Augusto da Silva,37,-0.5057,-0.1385,34,0.0012,3,Epidemiology,Cervical Cancer and HPV Research
-i|f|bernadelli de vito,Fernanda Bernadelli De Vito,40,-0.219,0.2678,82,0.0482,0,Epidemiology,Trypanosoma species research and implications
-i|l|penna rocha,Laura Penna Rocha,46,-0.1165,0.0698,146,0.0006,4,Epidemiology,Trypanosoma species research and implications
-i|j|reis machado,Juliana Reis Machado,99,-0.1209,0.1803,261,0.0269,0,Epidemiology,Trypanosoma species research and implications
-i|m|torreglosa ruiz,Mariângela Torreglosa Ruiz,119,0.2455,-0.1319,143,0.0046,1,General Health Professions,"Health, Nursing, Elderly Care"
-i|r|rosa miranda correa,Rosana Rosa Miranda Corrêa,85,-0.0661,0.0671,222,0.005,4,Epidemiology,Trypanosoma species research and implications
-i|s|de castro soares,Siomar de Castro Soares,118,-0.0107,0.371,63,0.0021,0,Epidemiology,Trypanosoma species research and implications
-i|s|jorge adad,Sheila Jorge Adad,88,-0.3762,0.061,99,0.0432,3,Epidemiology,Cervical Cancer and HPV Research
-i|c|lourencini cavellani,Camila Lourencini Cavellani,46,-0.028,-0.0294,100,0.0317,4,Epidemiology,Trypanosoma species research and implications
-i|f|carolina camargo,Fernanda Carolina Camargo,70,0.3949,-0.0468,82,0.0243,6,General Health Professions,"Health, Nursing, Elderly Care"
-i|m|s da luz,M. S. da Luz,58,-0.244,-0.1922,30,0.0286,2,Materials Chemistry,Metal complexes synthesis and properties
-i|w|francisco rodrigues,Wellington Francisco Rodrigues,77,0.0264,0.209,151,0.0487,0,Epidemiology,Trypanosoma species research and implications
-i|k|faria de oliveira,Karoline Faria de Oliveira,39,0.2435,-0.2654,87,0.0274,1,General Health Professions,"Health, Nursing, Elderly Care"
-i|s|martins barroso,Sabrina Martins Barroso,56,-0.5973,-0.754,3,0.0,11,Clinical Psychology,Psychology and Mental Health
-i|b|ferreira goulart,Bethânia Ferreira Goulart,68,0.4849,-0.2253,88,0.0031,1,General Health Professions,"Health, Nursing, Elderly Care"
-i|k|goncalves do nascimento,Kleiton Gonçalves do Nascimento,31,0.1956,-0.4239,34,0.0043,1,General Health Professions,"Health, Nursing, Elderly Care"
-i|a|cristina nicolussi,Adriana Cristina Nicolussi,53,0.5565,-0.4205,36,0.0135,1,General Health Professions,"Health, Nursing, Elderly Care"
-i|m|helena barbosa,Maria Helena Barbosa,155,0.3812,-0.3788,180,0.0002,1,General Health Professions,"Health, Nursing, Elderly Care"
-i|v|jose haas,Vanderlei José Haas,82,0.5379,-0.3204,60,0.0226,1,General Health Professions,"Health, Nursing, Elderly Care"
-i|g|de araujo pereira,Gilberto de Araújo Pereira,81,0.1507,-0.0035,99,0.0354,6,General Health Professions,"Health, Nursing, Elderly Care"
-i|j|bonolo do amaral rocha,Jesislei Bonolo do Amaral Rocha,34,0.389,-0.1227,74,0.0035,1,General Health Professions,"Health, Nursing, Elderly Care"
-i|e|lages silva,Eliane Lages-Silva,66,-0.1029,0.3827,120,0.0129,0,Epidemiology,Trypanosoma species research and implications
-i|r|simoes nomelini,Rosekeila Simões Nomelini,61,-0.5622,-0.0608,99,0.0004,3,Epidemiology,Cervical Cancer and HPV Research
-i|k|ferreira paim,Kennio Ferreira‐Paim,36,-0.1554,0.4248,74,0.0084,0,Epidemiology,Trypanosoma species research and implications
-i|r|guillermo nascimento ferreira,Rhainer Guillermo Nascimento Ferreira,50,0.5654,0.5101,3,0.0,0,Epidemiology,Trypanosoma species research and implications
-i|l|de almeida silva teixeira,Luciana de Almeida Silva Teixeira,43,-0.3863,0.4356,27,0.0113,0,Epidemiology,Trypanosoma species research and implications
-f|dalmo|correia,Dalmo Correia,91,-0.2404,0.3622,98,0.0157,0,Epidemiology,Trypanosoma species research and implications
-i|h|hemiko iwamoto,Helena Hemiko Iwamoto,38,0.4237,-0.129,53,0.0223,6,General Health Professions,"Health, Nursing, Elderly Care"
-i|f|rodrigues helmo,Fernanda Rodrígues Helmo,35,0.0293,0.1133,124,0.0362,4,Epidemiology,Trypanosoma species research and implications
-i|l|euripedes andrade silva,Leonardo Eurípedes Andrade-Silva,31,-0.1593,0.3685,85,0.004,0,Epidemiology,Trypanosoma species research and implications
-f|aluizio|prata,Áluízio Prata,78,-0.3193,0.464,49,0.0051,0,Epidemiology,Trypanosoma species research and implications
-i|h|moraes souza,Hélio Moraes‐Souza,97,-0.2507,0.2044,131,0.0205,6,General Health Professions,"Health, Nursing, Elderly Care"
-i|j|cesar de souza inacio goncalves,Júlio César de Souza Inácio Gonçalves,35,-0.2935,-0.4323,31,0.0228,2,Materials Chemistry,Metal complexes synthesis and properties
-i|r|s silva,Ricardo S. Silva,40,-0.823,0.3223,2,0.0,2,Materials Chemistry,Metal complexes synthesis and properties
-i|d|ferreira moreira lobato,Daniel Ferreira Moreira Lobato,33,-0.2718,-0.8053,11,0.0,5,Neurology,Stroke Rehabilitation and Recovery
-i|e|lacerda mendes,Edmar Lacerda Mendes,86,0.0509,0.6319,64,0.0178,7,Physiology,Physical Activity and Health
-i|l|marina scatena,Lúcia Marina Scatena,61,0.7021,-0.1111,7,0.0036,4,Epidemiology,Trypanosoma species research and implications
-i|j|emilio lazo chica,Javier Emílio Lazo Chica,45,-0.2022,0.2048,77,0.0525,0,Epidemiology,Trypanosoma species research and implications
-i|l|augusto alves garcia,Luan Augusto Alves Garcia,53,0.4817,-0.0281,68,0.0,6,General Health Professions,"Health, Nursing, Elderly Care"
-i|d|ferreira da cunha,Daniel Ferreira da Cunha,42,0.0573,-0.0881,37,0.0149,4,Epidemiology,Trypanosoma species research and implications
-i|v|de paula antunes teixeira,Vicente de Paula Antunes Teixeira,126,-0.1128,-0.0171,218,0.0353,4,Epidemiology,Trypanosoma species research and implications
-i|s|regina ribeiro chavaglia,Suzel Regina Ribeiro Chaváglia,69,0.4353,-0.307,69,0.0041,1,General Health Professions,"Health, Nursing, Elderly Care"
-i|d|mara dos santos tavares,Darlene Mara dos Santos Tavares,195,0.541,-0.057,182,0.0405,8,General Health Professions,"Health, Nursing, Elderly Care"
-f|fb|vito,FB Vito,52,-0.5236,0.2796,89,0.0,6,General Health Professions,"Health, Nursing, Elderly Care"
-i|m|hitomi okura,Mônica Hitomi Okura,37,0.09,-0.7331,31,0.0,2,Materials Chemistry,Metal complexes synthesis and properties
-i|g|fiori marchiori,Gianna Fiori Marchiori,33,0.7285,-0.046,37,0.0,8,General Health Professions,"Health, Nursing, Elderly Care"
-i|m|de fatima borges,Maria de Fátima Borges,63,0.1143,0.0811,32,0.0991,4,Epidemiology,Trypanosoma species research and implications
-f|elizabeth|barichello,Elizabeth Barichello,92,0.3655,-0.3369,139,0.0156,1,General Health Professions,"Health, Nursing, Elderly Care"
-f|eduardo|crema,Eduardo Crema,57,-0.4186,-0.0946,46,0.0089,3,Epidemiology,Cervical Cancer and HPV Research
-i|o|barbosa neto,Octávio Barbosa Neto,38,-0.1674,0.5375,39,0.0424,7,Physiology,Physical Activity and Health
-i|a|christian ribeiro andaki,Alynne Christian Ribeiro Andaki,51,0.1033,0.8024,39,0.0005,7,Physiology,Physical Activity and Health
-i|l|fernanda rodrigues martinho fernandes,Luciane Fernanda Rodrigues Martinho Fernandes,61,-0.2547,-0.5837,29,0.0151,5,Neurology,Stroke Rehabilitation and Recovery
-i|m|antonia dos reis,Marlene Antônia dos Reis,175,-0.1331,0.1132,305,0.043,4,Epidemiology,Trypanosoma species research and implications
-i|m|falangola accioly,Marilita Falângola Accioly,38,0.0848,-0.5669,19,0.0462,5,Neurology,Stroke Rehabilitation and Recovery
-f|scsv|tanaka,SCSV Tanaka,37,-0.5792,0.2928,75,0.0,6,General Health Professions,"Health, Nursing, Elderly Care"
-i|m|carvalho paschoini,Marina Carvalho Paschoini,35,-0.054,-0.1608,56,0.081,1,General Health Professions,"Health, Nursing, Elderly Care"
-i|h|cristina figueiredo frizzo,Heloísa Cristina Figueiredo Frizzo,31,0.3561,0.6602,2,0.0,1,General Health Professions,"Health, Nursing, Elderly Care"
-i|a|lucia de assis simoes,Ana Lúcia de Assis Simões,37,0.6416,-0.3175,29,0.011,1,General Health Professions,"Health, Nursing, Elderly Care"
-i|a|luiz pedrosa,André Luiz Pedrosa,33,-0.1386,0.5256,55,0.0025,0,Epidemiology,Trypanosoma species research and implications
-i|d|seithi kato,Danilo Seithi Kato,46,-0.7431,0.5121,3,0.0,9,Education,Science and Education Research
-i|c|gomez hernandez,César Gómez‐Hernández,32,-0.2138,0.415,48,0.0087,0,Epidemiology,Trypanosoma species research and implications
-i|s|elaine malaguti toffano,Silmara Elaine Malaguti Toffano,40,0.6279,-0.1939,23,0.0022,1,General Health Professions,"Health, Nursing, Elderly Care"
-i|m|vinicius campos souza,Markus Vinícius Campos Souza,32,-0.5956,0.0918,35,0.0141,3,Epidemiology,Cervical Cancer and HPV Research
-i|a|claudia granato,Ana Cláudia Granato,55,-0.041,-0.8177,53,0.0,2,Materials Chemistry,Metal complexes synthesis and properties
-i|r|euripedes da silveira,Rodrigo Eurípedes da Silveira,39,0.8146,0.0079,14,0.0046,6,General Health Professions,"Health, Nursing, Elderly Care"
-i|r|margarida etchebehere,Renata Margarida Etchebehere,60,-0.3252,0.0707,74,0.0423,3,Epidemiology,Cervical Cancer and HPV Research
-i|b|dias miranda parreira,Bibiane Dias Miranda Parreira,51,0.3974,-0.2456,68,0.0004,1,General Health Professions,"Health, Nursing, Elderly Care"
-i|g|roger pointer malpass,Geoffroy Roger Pointer Malpass,61,-0.1213,-0.7528,55,0.0564,2,Materials Chemistry,Metal complexes synthesis and properties
-i|p|donizete colombo,Pedro Donizete Colombo,51,-1.0,0.1178,17,0.0,9,Education,Science and Education Research
-i|d|carneiro ferreira,Deusmaque Carneiro Ferreira,42,-0.3856,-0.3886,34,0.0478,2,Materials Chemistry,Metal complexes synthesis and properties
-i|j|eidi sasaki,Jeffer Eidi Sasaki,108,0.2887,0.4966,87,0.0382,7,Physiology,Physical Activity and Health
-i|j|sindra virtuoso junior,Jair Sindra Virtuoso Júnior,96,0.4356,0.4223,109,0.004,7,Physiology,Physical Activity and Health
-i|l|jorge patrizzi,Lislei Jorge Patrizzi,47,0.1522,-0.5711,47,0.0036,5,Neurology,Stroke Rehabilitation and Recovery
-i|l|eduardo ramırez,Luı́s Eduardo Ramı́rez,43,-0.0978,0.4412,90,0.0068,0,Epidemiology,Trypanosoma species research and implications
-i|g|jose luvizutto,Gustavo José Luvizutto,112,-0.3234,-0.2871,48,0.0,5,Neurology,Stroke Rehabilitation and Recovery
-f|marcos|silva,Marcos Silva,173,-0.1409,0.247,438,0.1167,0,Epidemiology,Trypanosoma species research and implications
-i|g|ribeiro da mota,Gustavo Ribeiro da Mota,150,-0.0485,0.5804,51,0.0044,7,Physiology,Physical Activity and Health
-i|l|aparecida kauchakje pedrosa,Leila Aparecida Kauchakje Pedrosa,33,0.8492,-0.458,9,0.0005,1,General Health Professions,"Health, Nursing, Elderly Care"
-i|a|borges peixoto,Alberto Borges Peixoto,84,-0.6898,-0.249,8,0.0,3,Epidemiology,Cervical Cancer and HPV Research
-i|a|dias paiva,Aline Dias Paiva,42,0.2582,0.578,9,0.0006,0,Epidemiology,Trypanosoma species research and implications
-i|l|aparecida ferreira,Lúcia Aparecida Ferreira,88,0.4817,-0.1405,80,0.097,1,General Health Professions,"Health, Nursing, Elderly Care"
-f|joilson|meneguci,Joilson Meneguci,60,0.3615,0.2957,111,0.0406,7,Physiology,Physical Activity and Health
-i|l|ronan marquez ferreira de souza,Luís Ronan Marquez Ferreira de Souza,41,-0.5577,-0.1395,20,0.02,3,Epidemiology,Cervical Cancer and HPV Research
-i|a|da silva santos,Álvaro da Silva Santos,103,0.5286,0.0827,79,0.0259,6,General Health Professions,"Health, Nursing, Elderly Care"
+i|m|pereira rezende,Marina Pereira Rezende,34,0.447,-0.2417,40,0.0133,1,General Health Professions,"Health, Nursing, Elderly Care"
+i|c|jose freire oliveira,Carlo José Freire Oliveira,156,-0.0525,0.2598,317,0.186,0,Epidemiology,Trypanosoma species research and implications
+i|s|elaine malaguti toffano,Silmara Elaine Malaguti Toffano,42,0.3416,-0.4666,26,0.002,1,General Health Professions,"Health, Nursing, Elderly Care"
+i|m|sousa pegorari,Maycon Sousa Pegorari,34,-0.1121,-0.4375,43,0.0497,7,General Health Professions,"Health, Nursing, Elderly Care"
+i|l|resende rodrigues,Leiner Resende Rodriguês,56,0.1683,-0.3594,64,0.0313,7,General Health Professions,"Health, Nursing, Elderly Care"
+i|l|euripedes andrade silva,Leonardo Eurípedes Andrade-Silva,32,-0.0471,0.3822,90,0.0087,0,Epidemiology,Trypanosoma species research and implications
+f|regina|simoes,Regina Simões,33,0.1996,-0.9062,15,0.0,10,Education,Physical Education and Sports Studies
+i|r|margarida etchebehere,Renata Margarida Etchebehere,60,-0.3165,0.1434,74,0.0412,2,Epidemiology,Cervical Cancer and HPV Research
+i|c|gomez hernandez,César Gómez‐Hernández,32,-0.0366,0.4756,48,0.0089,0,Epidemiology,Trypanosoma species research and implications
+i|m|falangola accioly,Marilita Falângola Accioly,38,-0.4445,-0.2931,19,0.0443,6,Neurology,Stroke Rehabilitation and Recovery
+i|m|leon silva vergara,Mário León Silva-Vergara,107,-0.1134,0.288,130,0.0138,0,Epidemiology,Trypanosoma species research and implications
+i|f|scorsolini comin,Fabio Scorsolini‐Comin,158,-0.0857,-0.609,3,0.0,11,Clinical Psychology,Psychology and Mental Health
+i|j|aparecido moreto,Jéferson Aparecido Moreto,48,-0.4752,0.4252,35,0.0432,3,Materials Chemistry,Metal complexes synthesis and properties
+i|h|moraes souza,Hélio Moraes‐Souza,97,0.1626,0.3069,131,0.0204,4,General Health Professions,"Health, Nursing, Elderly Care"
+i|f|lera orsatti,Fábio Lera Orsatti,100,-0.1099,-0.0743,85,0.0015,2,Epidemiology,Cervical Cancer and HPV Research
+i|k|goncalves do nascimento,Kleiton Gonçalves do Nascimento,32,0.4598,-0.5124,34,0.0043,1,General Health Professions,"Health, Nursing, Elderly Care"
+i|r|valentim gelamo,Rogério Valentim Gelamo,95,-0.499,0.3504,44,0.0685,3,Materials Chemistry,Metal complexes synthesis and properties
+i|h|cristina figueiredo frizzo,Heloísa Cristina Figueiredo Frizzo,32,0.8596,0.2318,2,0.0,1,General Health Professions,"Health, Nursing, Elderly Care"
+i|d|ferreira moreira lobato,Daniel Ferreira Moreira Lobato,33,-0.6778,-0.5449,11,0.0,6,Neurology,Stroke Rehabilitation and Recovery
+f|aluizio|prata,Áluízio Prata,78,-0.1965,0.4859,49,0.0049,0,Epidemiology,Trypanosoma species research and implications
+i|j|cesar de souza inacio goncalves,Júlio César de Souza Inácio Gonçalves,36,-0.8605,0.2471,32,0.0139,3,Materials Chemistry,Metal complexes synthesis and properties
+f|virmondes|rodrigues,Virmondes Rodrigues,216,-0.094,0.2889,446,0.0353,0,Epidemiology,Trypanosoma species research and implications
+i|m|torreglosa ruiz,Mariângela Torreglosa Ruiz,120,0.2899,-0.1376,144,0.0032,1,General Health Professions,"Health, Nursing, Elderly Care"
+i|a|cristina nicolussi,Adriana Cristina Nicolussi,57,0.2097,-0.4676,40,0.0101,1,General Health Professions,"Health, Nursing, Elderly Care"
+i|d|mara dos santos tavares,Darlene Mara dos Santos Tavares,196,0.1241,-0.3626,190,0.0414,7,General Health Professions,"Health, Nursing, Elderly Care"
+i|m|antoniazi michelin,Márcia Antoniazi Michelin,77,-0.2835,-0.1225,93,0.0144,2,Epidemiology,Cervical Cancer and HPV Research
+i|e|fernando candido murta,Eddie Fernando Cândido Murta,166,-0.2487,-0.0458,193,0.0083,2,Epidemiology,Cervical Cancer and HPV Research
+i|j|bonolo do amaral rocha,Jesislei Bonolo do Amaral Rocha,34,0.4942,-0.2511,76,0.0056,1,General Health Professions,"Health, Nursing, Elderly Care"
+i|l|fernanda rodrigues martinho fernandes,Luciane Fernanda Rodrigues Martinho Fernandes,61,-0.5776,-0.3312,29,0.0151,6,Neurology,Stroke Rehabilitation and Recovery
+i|s|aparecida de lima pereira,Sanívia Aparecida de Lima Pereira,40,-0.3117,0.2291,65,0.0,0,Epidemiology,Trypanosoma species research and implications
+i|w|wey moreira,Wagner Wey Moreira,64,0.0802,-0.8973,15,0.0,10,Education,Physical Education and Sports Studies
+i|m|carvalho paschoini,Marina Carvalho Paschoini,35,0.1937,0.0083,56,0.0873,1,General Health Professions,"Health, Nursing, Elderly Care"
+i|r|simoes nomelini,Rosekeila Simões Nomelini,63,-0.1952,-0.0557,101,0.0,2,Epidemiology,Cervical Cancer and HPV Research
+i|m|aurelho de lima,Marcus Aurelho de Lima,36,-0.0662,0.5981,16,0.0001,0,Epidemiology,Trypanosoma species research and implications
+i|s|de castro soares,Siomar de Castro Soares,119,-0.0936,0.3981,65,0.0036,0,Epidemiology,Trypanosoma species research and implications
+i|m|paula custodio silva,Maria Paula Custódio Silva,55,0.4551,-0.1998,112,0.005,1,General Health Professions,"Health, Nursing, Elderly Care"
+i|v|jose haas,Vanderlei José Haas,82,0.2319,-0.3445,61,0.0171,1,General Health Professions,"Health, Nursing, Elderly Care"
+f|acdm|carneiro,ACDM Carneiro,41,0.3471,0.4513,84,0.0,4,General Health Professions,"Health, Nursing, Elderly Care"
+i|s|riul da silva,Sueli Riul da Silva,66,0.411,-0.1473,50,0.036,1,General Health Professions,"Health, Nursing, Elderly Care"
+i|d|bertulucci rocha rodrigues,Denise Bertulucci Rocha Rodrigues,60,-0.2039,0.2815,148,0.0014,0,Epidemiology,Trypanosoma species research and implications
+i|r|euripedes da silveira,Rodrigo Eurípedes da Silveira,41,0.7434,-0.2895,15,0.0045,4,General Health Professions,"Health, Nursing, Elderly Care"
+i|l|augusto alves garcia,Luan Augusto Alves Garcia,53,0.5334,-0.0938,68,0.0,4,General Health Professions,"Health, Nursing, Elderly Care"
+i|f|carolina ribeiro dias,Fernanda Carolina Ribeiro Dias,39,-0.5478,-0.7494,2,0.0,2,Epidemiology,Cervical Cancer and HPV Research
+f|sheilla|tribess,Sheilla Tribess,63,0.5439,0.0052,94,0.0,5,Physiology,Physical Activity and Health
+i|s|martins barroso,Sabrina Martins Barroso,57,0.4675,-0.578,3,0.0,11,Clinical Psychology,Psychology and Mental Health
+i|j|eidi sasaki,Jeffer Eidi Sasaki,109,0.4045,0.0157,88,0.0388,5,Physiology,Physical Activity and Health
+f|eduardo|crema,Eduardo Crema,57,-0.459,0.1786,46,0.0078,2,Epidemiology,Cervical Cancer and HPV Research
+i|j|emilio lazo chica,Javier Emílio Lazo Chica,46,-0.112,0.1854,78,0.05,0,Epidemiology,Trypanosoma species research and implications
+i|j|sindra virtuoso junior,Jair Sindra Virtuoso Júnior,96,0.4801,-0.023,109,0.0047,5,Physiology,Physical Activity and Health
+i|g|vannucchi portari,Guilherme Vannucchi Portari,38,-0.1192,-0.3181,17,0.0,2,Epidemiology,Cervical Cancer and HPV Research
+f|afonso|pelli,Afonso Pelli,81,-0.162,0.6195,15,0.0098,0,Epidemiology,Trypanosoma species research and implications
+i|a|de paula rogerio,Alexandre de Paula Rogério,42,-0.2437,0.229,33,0.0227,0,Epidemiology,Trypanosoma species research and implications
+i|k|graciele dos santos,Kássia Graciele dos Santos,63,0.2703,0.1405,3,0.0,3,Materials Chemistry,Metal complexes synthesis and properties
+i|a|claudia granato,Ana Cláudia Granato,56,-0.7847,-0.2483,49,0.0,3,Materials Chemistry,Metal complexes synthesis and properties
+i|a|paula espindula,Ana Paula Espíndula,71,-0.2858,-0.035,87,0.0299,8,Epidemiology,Renal Diseases and Glomerulopathies
+i|g|roger pointer malpass,Geoffroy Roger Pointer Malpass,62,-0.9126,-0.1706,52,0.029,3,Materials Chemistry,Metal complexes synthesis and properties
+i|r|rosa miranda correa,Rosana Rosa Miranda Corrêa,85,-0.1874,0.1032,222,0.0055,8,Epidemiology,Renal Diseases and Glomerulopathies
+i|l|eduardo ramırez,Luı́s Eduardo Ramı́rez,43,-0.131,0.5095,87,0.0042,0,Epidemiology,Trypanosoma species research and implications
+i|g|jose luvizutto,Gustavo José Luvizutto,114,-0.3401,-0.4946,48,0.0,6,Neurology,Stroke Rehabilitation and Recovery
+i|r|guillermo nascimento ferreira,Rhainer Guillermo Nascimento Ferreira,51,0.5184,0.4942,3,0.0,0,Epidemiology,Trypanosoma species research and implications
+i|p|donizete colombo,Pedro Donizete Colombo,51,0.3733,0.9157,17,0.0,9,Education,Science and Education Research
+i|o|barbosa neto,Octávio Barbosa Neto,38,0.0031,0.1206,39,0.0441,5,Physiology,Physical Activity and Health
+i|r|vicente ferreira,Ricardo Vicente Ferreira,38,-0.295,-0.4887,6,0.0,7,General Health Professions,"Health, Nursing, Elderly Care"
+i|l|jorge patrizzi,Lislei Jorge Patrizzi,47,-0.3258,-0.2895,47,0.0041,6,Neurology,Stroke Rehabilitation and Recovery
+i|d|carneiro ferreira,Deusmaque Carneiro Ferreira,43,-0.8232,0.202,34,0.0296,3,Materials Chemistry,Metal complexes synthesis and properties
+i|g|de araujo pereira,Gilberto de Araújo Pereira,81,0.2355,0.0053,99,0.0365,4,General Health Professions,"Health, Nursing, Elderly Care"
+i|m|antonia dos reis,Marlene Antônia dos Reis,175,-0.1921,0.1548,301,0.0408,8,Epidemiology,Renal Diseases and Glomerulopathies
+i|c|bosquiero papini,Camila Bosquiero Papini,38,0.669,-0.1937,11,0.0144,5,Physiology,Physical Activity and Health
+i|j|ribeiro luiz goncalves,Jurema Ribeiro Luiz Gonçalves,31,0.3036,-0.2081,22,0.0109,7,General Health Professions,"Health, Nursing, Elderly Care"
+i|d|seithi kato,Danilo Seithi Kato,46,-0.0313,0.9947,3,0.0,9,Education,Science and Education Research
+f|elizabeth|barichello,Elizabeth Barichello,92,0.33,-0.3787,139,0.0151,1,General Health Professions,"Health, Nursing, Elderly Care"
+f|fb|vito,FB Vito,52,0.3687,0.3767,89,0.0,4,General Health Professions,"Health, Nursing, Elderly Care"
+i|m|hitomi okura,Mônica Hitomi Okura,37,-0.8456,-0.3339,29,0.0144,3,Materials Chemistry,Metal complexes synthesis and properties
+i|g|fiori marchiori,Gianna Fiori Marchiori,33,0.087,-0.5403,37,0.0,7,General Health Professions,"Health, Nursing, Elderly Care"
+i|s|regina ribeiro chavaglia,Suzel Regina Ribeiro Chaváglia,69,0.4048,-0.3824,69,0.0032,1,General Health Professions,"Health, Nursing, Elderly Care"
+f|scsv|tanaka,SCSV Tanaka,37,0.4079,0.3996,75,0.0,4,General Health Professions,"Health, Nursing, Elderly Care"
+i|b|ferreira goulart,Bethânia Ferreira Goulart,68,0.2957,-0.2937,88,0.0032,1,General Health Professions,"Health, Nursing, Elderly Care"
+i|s|gomes novais shimano,Suraya Gomes Novais Shimano,36,-0.3274,-0.3336,28,0.0145,6,Neurology,Stroke Rehabilitation and Recovery
+i|a|borges peixoto,Alberto Borges Peixoto,86,0.5666,0.1932,8,0.0,2,Epidemiology,Cervical Cancer and HPV Research
+i|l|aparecida kauchakje pedrosa,Leila  Aparecida Kauchakje Pedrosa,34,-0.156,-0.2006,9,0.0005,1,General Health Professions,"Health, Nursing, Elderly Care"
+i|a|bernadete trovo de marqui,Alessandra Bernadete Trovó de Marqui,57,0.5298,0.2449,28,0.0009,1,General Health Professions,"Health, Nursing, Elderly Care"
+i|l|aparecida pascucci sande de souza,Luciane Aparecida Pascucci Sande de Souza,99,-0.3867,-0.322,92,0.0181,6,Neurology,Stroke Rehabilitation and Recovery
+f|dernival|bertoncello,Dernival Bertoncello,90,-0.473,-0.342,51,0.0137,6,Neurology,Stroke Rehabilitation and Recovery
+i|l|de almeida silva teixeira,Luciana de Almeida Silva Teixeira,43,-0.2678,0.4464,27,0.0094,0,Epidemiology,Trypanosoma species research and implications
+i|m|helena barbosa,Maria Helena Barbosa,155,0.3174,-0.4214,180,0.0002,1,General Health Professions,"Health, Nursing, Elderly Care"
+i|l|marina scatena,Lúcia Marina Scatena,61,0.5554,-0.284,7,0.0039,5,Physiology,Physical Activity and Health
+i|m|marques dos santos felix,Márcia Marques dos Santos Félix,42,0.3582,-0.5134,74,0.0,1,General Health Professions,"Health, Nursing, Elderly Care"
+i|k|faria de oliveira,Karoline Faria de Oliveira,39,0.2665,-0.2644,87,0.0277,1,General Health Professions,"Health, Nursing, Elderly Care"
+i|m|vinicius campos souza,Markus Vinícius Campos Souza,32,-0.0204,-0.1163,35,0.0141,2,Epidemiology,Cervical Cancer and HPV Research
+i|l|ronan marquez ferreira de souza,Luís Ronan Marquez Ferreira de Souza,41,0.1422,0.1,20,0.021,2,Epidemiology,Cervical Cancer and HPV Research
+i|g|ribeiro da mota,Gustavo Ribeiro da Mota,152,0.1185,0.0447,53,0.0043,5,Physiology,Physical Activity and Health
+i|k|ferreira paim,Kennio Ferreira‐Paim,36,-0.0122,0.4174,74,0.0044,0,Epidemiology,Trypanosoma species research and implications
+i|w|francisco rodrigues,Wellington Francisco Rodrigues,78,0.0194,0.2102,152,0.0477,0,Epidemiology,Trypanosoma species research and implications
+f|dalmo|correia,Dalmo Correia,91,-0.1875,0.3942,98,0.0163,0,Epidemiology,Trypanosoma species research and implications
+i|e|lacerda mendes,Edmar Lacerda Mendes,87,0.1637,0.0539,65,0.0184,5,Physiology,Physical Activity and Health
+i|m|de fatima borges,Maria de Fátima Borges,64,0.1938,0.2092,32,0.098,0,Epidemiology,Trypanosoma species research and implications
+i|d|ferreira da cunha,Daniel Ferreira da Cunha,42,0.0042,-0.1476,31,0.0156,8,Epidemiology,Renal Diseases and Glomerulopathies
+i|p|i s maia,Pedro I. S. Maia,63,-0.7089,0.3692,11,0.0261,3,Materials Chemistry,Metal complexes synthesis and properties
+i|m|aparecida spadotto balarin,Marly Aparecida Spadotto Balarin,34,0.5146,0.2119,23,0.0141,1,General Health Professions,"Health, Nursing, Elderly Care"
+i|m|s da luz,M. S. da Luz,60,-0.6283,0.2187,31,0.0288,3,Materials Chemistry,Metal complexes synthesis and properties
+i|f|aparecida dias,Flávia Aparecida Dias,82,0.1099,-0.3202,139,0.0141,7,General Health Professions,"Health, Nursing, Elderly Care"
+i|i|aparecida porcatti de walsh,Isabel Aparecida Porcatti de Walsh,71,-0.2301,-0.3056,75,0.0135,6,Neurology,Stroke Rehabilitation and Recovery
+i|l|aparecida ferreira,Lúcia Aparecida Ferreira,88,0.3369,-0.2304,82,0.107,1,General Health Professions,"Health, Nursing, Elderly Care"
+i|c|botelho miguel,Camila Botelho Miguel,39,0.0099,0.3098,77,0.0015,0,Epidemiology,Trypanosoma species research and implications
+i|a|augusto da silva,Alex Augusto da Silva,37,-0.5204,0.2445,34,0.0012,2,Epidemiology,Cervical Cancer and HPV Research
+i|d|fernando bovolenta ovigli,Daniel Fernando Bovolenta Ovigli,47,0.2537,0.8671,20,0.0001,9,Education,Science and Education Research
+i|s|jorge adad,Sheila Jorge Adad,88,-0.2943,0.1012,96,0.041,2,Epidemiology,Cervical Cancer and HPV Research
+i|c|lourencini cavellani,Camila Lourencini Cavellani,46,-0.2842,0.0186,100,0.0311,8,Epidemiology,Renal Diseases and Glomerulopathies
+i|h|hemiko iwamoto,Helena Hemiko Iwamoto,38,0.4044,-0.2011,53,0.0223,4,General Health Professions,"Health, Nursing, Elderly Care"
+i|l|penna rocha,Laura Penna Rocha,46,-0.2415,0.1515,146,0.0006,8,Epidemiology,Renal Diseases and Glomerulopathies
+i|f|rodrigues helmo,Fernanda Rodrígues Helmo,35,-0.0467,0.114,124,0.0367,8,Epidemiology,Renal Diseases and Glomerulopathies
+i|r|s silva,Ricardo S. Silva,40,-1.0,0.0519,2,0.0,3,Materials Chemistry,Metal complexes synthesis and properties
+f|karina|pereira,Karina Pereira,35,-0.4785,-0.5005,21,0.0049,6,Neurology,Stroke Rehabilitation and Recovery
+i|b|dias miranda parreira,Bibiane Dias Miranda Parreira,51,0.3747,-0.2846,68,0.0004,1,General Health Professions,"Health, Nursing, Elderly Care"
+i|m|torreglosa ruiz cintra,Mariângela Torreglosa Ruiz-Cintra,31,0.674,0.4365,18,0.0,1,General Health Professions,"Health, Nursing, Elderly Care"
+i|f|bernadelli de vito,Fernanda Bernadelli De Vito,43,0.0462,0.3507,85,0.0527,0,Epidemiology,Trypanosoma species research and implications
+i|a|dias paiva,Aline Dias Paiva,42,-0.3045,0.6076,9,0.0002,0,Epidemiology,Trypanosoma species research and implications
+i|e|lages silva,Eliane Lages-Silva,66,-0.0867,0.4472,117,0.0093,0,Epidemiology,Trypanosoma species research and implications
+i|a|da silva santos,Álvaro da Silva Santos,105,0.5545,-0.159,84,0.0302,4,General Health Professions,"Health, Nursing, Elderly Care"
+i|v|de paula antunes teixeira,Vicente de Paula Antunes Teixeira,126,-0.2405,0.0422,212,0.035,8,Epidemiology,Renal Diseases and Glomerulopathies
+i|f|carolina camargo,Fernanda Carolina Camargo,71,0.4131,-0.1019,82,0.0259,4,General Health Professions,"Health, Nursing, Elderly Care"
+i|a|lucia de assis simoes,Ana Lúcia de Assis Simões,39,0.4094,-0.4626,29,0.011,1,General Health Professions,"Health, Nursing, Elderly Care"
+i|r|junio de oliveira,Ronaldo Junio de Oliveira,53,-0.6787,0.5761,9,0.0,3,Materials Chemistry,Metal complexes synthesis and properties
+f|divanice|contim,Divanice Contim,110,0.368,-0.198,184,0.0525,1,General Health Professions,"Health, Nursing, Elderly Care"
+i|j|reis machado,Juliana Reis Machado,99,-0.168,0.2304,261,0.0259,0,Epidemiology,Trypanosoma species research and implications
+i|b|martins tavares murta,Beatriz Martins Tavares‐Murta,37,-0.3465,-0.1485,38,0.0026,2,Epidemiology,Cervical Cancer and HPV Research
+f|marcos|silva,Marcos Silva,174,-0.1441,0.2933,439,0.1013,0,Epidemiology,Trypanosoma species research and implications
+i|a|christian ribeiro andaki,Alynne Christian Ribeiro Andaki,52,0.2508,-0.1057,39,0.0006,5,Physiology,Physical Activity and Health
+f|joilson|meneguci,Joilson Meneguci,61,0.357,-0.0353,112,0.0398,5,Physiology,Physical Activity and Health
+i|p|cristina dos santos ferreira,Pollyana Cristina dos Santos Ferreira,39,0.1042,-0.4669,63,0.004,7,General Health Professions,"Health, Nursing, Elderly Care"
+i|v|jose dias da silva,Valdo José Dias da Silva,44,-0.1377,0.3678,51,0.024,0,Epidemiology,Trypanosoma species research and implications
+i|a|luiz pedrosa,André Luiz Pedrosa,33,-0.0615,0.5569,55,0.0026,0,Epidemiology,Trypanosoma species research and implications

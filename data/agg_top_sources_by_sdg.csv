@@ -32,6 +32,7 @@ sdg_id,source,n
 1,Brazilian Journal of Physical Therapy,1
 1,Cadernos de Saúde Pública,1
 1,Cadernos de Terapia Ocupacional da UFSCar,1
+1,Cancer Causes & Control,1
 1,Career Development International,1
 1,Ciência & Saúde Coletiva,1
 1,Clinical Medicine Insights Oncology,1
@@ -88,7 +89,7 @@ sdg_id,source,n
 1,Wear,1
 1,polemica,1
 10,Zenodo (CERN European Organization for Nuclear Research),9
-10,Cadernos Brasileiros de Terapia Ocupacional ,5
+10,Cadernos Brasileiros de Terapia Ocupacional ,6
 10,LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas),5
 10,VínculorevistadoNesme,5
 10,Cadernos de Terapia Ocupacional da UFSCar,4
@@ -243,6 +244,7 @@ sdg_id,source,n
 10,Revista Brasileira em Promoção da saúde,1
 10,Revista Campo da História,1
 10,Revista Científica Novas Configurações diálogos plurais,1
+10,Revista Científica do Centro Universitário de Araras Dr Edmundo Ulson,1
 10,Revista Diálogo Educacional,1
 10,Revista Dor,1
 10,Revista Educação e Políticas em Debate,1
@@ -303,6 +305,7 @@ sdg_id,source,n
 11,Arquivos de Ciências Veterinárias e Zoologia da UNIPAR,1
 11,Biogenesis Jurnal Ilmiah Biologi,1
 11,Blucher Chemical Engineering Proceedings,1
+11,Brazilian Geographical Journal,1
 11,Brazilian Journal of Kinanthropometry and Human Performance,1
 11,Brazilian Journal of Physical Therapy,1
 11,Cities,1
@@ -341,6 +344,7 @@ sdg_id,source,n
 11,Microbial Ecology,1
 11,Motriz Revista de Educação Física,1
 11,Multidiscipline Modeling in Materials and Structures,1
+11,Nucleus,1
 11,Parasitology Research,1
 11,Pensando - Revista de Filosofia,1
 11,Periódico Eletrônico Fórum Ambiental da Alta Paulista.,1
@@ -479,10 +483,10 @@ sdg_id,source,n
 13,Águas Subterrâneas,1
 14,Cretaceous Research,12
 14,Journal of South American Earth Sciences,6
+14,Zootaxa,6
 14,Brazilian Journal of Biology,5
 14,Comparative Biochemistry and Physiology Part B Biochemistry and Molecular Biology,5
 14,Livro de Resumos do X Congresso Brasileiro sobre Crustáceos,5
-14,Zootaxa,5
 14,PLoS ONE,4
 14,Revista da Sociedade Brasileira de Medicina Tropical,4
 14,Acta Biologica Brasiliensia.,3
@@ -504,6 +508,7 @@ sdg_id,source,n
 14,PubMed,2
 14,Research Society and Development,2
 14,Research Square,2
+14,Scientific Reports,2
 14,Sedimentary Geology,2
 14,The Journal of Membrane Biology,2
 14,Urology,2
@@ -517,6 +522,7 @@ sdg_id,source,n
 14,Anais do Congresso Brasileiro da Associação Brasileira de Fisioterapia Traumato-Ortopédica - ABRAFITO,1
 14,Anatomia Histologia Embryologia,1
 14,Animal Reproduction Science,1
+14,Annales Zoologici Fennici,1
 14,Anti-Cancer Drugs,1
 14,Anuário de Literatura,1
 14,Aquatic Sciences,1
@@ -590,6 +596,7 @@ sdg_id,source,n
 14,Mycopathologia,1
 14,Natural Product Communications,1
 14,Nauplius,1
+14,Neotropical Biology and Conservation,1
 14,Neotropical Ichthyology,1
 14,Ophthalmology,1
 14,Orbital - The Electronic Journal of Chemistry,1
@@ -608,7 +615,6 @@ sdg_id,source,n
 14,Revista Thema,1
 14,Revista de Ciências Agroveterinárias,1
 14,Scandinavian Journal of Immunology,1
-14,Scientific Reports,1
 14,Semina Ciências Agrárias,1
 14,Stem Cell Research,1
 14,Systematic Biology,1
@@ -664,6 +670,7 @@ sdg_id,source,n
 15,Animal Biodiversity and Conservation,1
 15,Animal Reproduction Science,1
 15,Animals,1
+15,Annals of Botany,1
 15,Antibiotics,1
 15,Applied Research,1
 15,BMC Genomics,1
@@ -697,9 +704,11 @@ sdg_id,source,n
 15,Dialnet (Universidad de la Rioja),1
 15,EccoS – Revista Científica,1
 15,Ecology Of Freshwater Fish,1
+15,Enciclopédia Biosfera,1
 15,Engenharia Sanitaria e Ambiental,1
 15,EntomoBrasilis,1
 15,Entomological Science,1
+15,Environment Development and Sustainability,1
 15,Evidência,1
 15,Experimental Parasitology,1
 15,FLORESTA,1
@@ -718,6 +727,7 @@ sdg_id,source,n
 15,Journal of Coloproctology,1
 15,Journal of Experimental Botany,1
 15,Journal of Geographic Information System,1
+15,Journal of High Energy Physics,1
 15,Journal of Insect Biodiversity,1
 15,Journal of Medicinal Plants Research,1
 15,Journal of Obstetrics and Gynaecology,1
@@ -757,6 +767,7 @@ sdg_id,source,n
 15,Revista Brasileira de Educação em Ciências e Educação Matemática,1
 15,Revista Brasileira de Herbicidas,1
 15,Revista Brasileira de Medicina do Esporte,1
+15,Revista Brasileira de Tecnologia Aplicada nas Ciências Agrárias,1
 15,Revista Brasileira de Zoociências,1
 15,Revista CERES,1
 15,Revista Fitos,1
@@ -799,6 +810,7 @@ sdg_id,source,n
 16,Revista de Enfermagem e Atenção à Saúde,3
 16,Americanae (AECID Library),2
 16,Ciência & Saúde Coletiva,2
+16,Journal of High Energy Physics,2
 16,PubMed,2
 16,Research Society and Development,2
 16,Revista Brasileira de Enfermagem,2
@@ -820,6 +832,7 @@ sdg_id,source,n
 16,Brazilian Journal of Development,1
 16,Brazilian Journal of Operations & Production Management,1
 16,Cadernos Brasileiros de Terapia Ocupacional ,1
+16,Cadernos Cajuína,1
 16,Cadernos de Pesquisa,1
 16,Cadernos de pesquisa do CDHIS,1
 16,Canadian Journal of Kidney Health and Disease,1
@@ -847,7 +860,6 @@ sdg_id,source,n
 16,International Journal of Advanced Engineering Research and Science,1
 16,International Journal of Environmental Research and Public Health,1
 16,Journal of Aerospace Technology and Management,1
-16,Journal of High Energy Physics,1
 16,Journal of Intelligent Transportation Systems,1
 16,Journal of Management Science & Engineering research,1
 16,Journal of Software Evolution and Process,1
@@ -928,6 +940,7 @@ sdg_id,source,n
 17,Americanae (AECID Library),1
 17,Anais ... Encontro Nacional de Engenharia de Produção/Anais do Encontro Nacional de Engenharia de Produção,1
 17,Annals of Medicine,1
+17,Arquivos Brasileiros de Oftalmologia,1
 17,Biomédica,1
 17,Bioscience Journal,1
 17,Brazilian Business Review,1
@@ -994,15 +1007,15 @@ sdg_id,source,n
 2,Genetics and Molecular Research,9
 2,Hematology Transfusion and Cell Therapy,9
 2,Journal of Coloproctology,9
+2,PubMed,9
 2,Parasitology Research,8
-2,PubMed,8
 2,Blucher Chemical Engineering Proceedings,7
 2,Brazilian Journal of Development,6
-2,LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas),6
 2,Nutrition,6
 2,Radiologia Brasileira,6
 2,DOAJ (DOAJ: Directory of Open Access Journals),5
 2,International Journal of Health Science,5
+2,LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas),5
 2,Research Society and Development,5
 2,Jornal de Pediatria,4
 2,Nutrients,4
@@ -1018,6 +1031,7 @@ sdg_id,source,n
 2,Conjecturas,3
 2,Elsevier eBooks,3
 2,International Journal of Advanced Engineering Research and Science,3
+2,International Journal of Biological Macromolecules,3
 2,Life Sciences,3
 2,Placenta,3
 2,REVISTA DE AGRICULTURA NEOTROPICAL,3
@@ -1030,6 +1044,7 @@ sdg_id,source,n
 2,Acta Cirúrgica Brasileira,2
 2,Acta Paulista de Enfermagem,2
 2,Acta Scientiarum Agronomy,2
+2,Americanae (AECID Library),2
 2,Annals of Diagnostic Pathology,2
 2,Applied Biochemistry and Biotechnology,2
 2,Archiv für Pathologische Anatomie und Physiologie und für Klinische Medicin,2
@@ -1043,8 +1058,8 @@ sdg_id,source,n
 2,Endocrine Pathology,2
 2,Ensino Saude e Ambiente,2
 2,Euphytica,2
+2,Food Bioscience,2
 2,HAL (Le Centre pour la Communication Scientifique Directe),2
-2,International Journal of Biological Macromolecules,2
 2,International Journal of Nutrology,2
 2,International Journal of Sports Medicine,2
 2,Investigative Ophthalmology & Visual Science,2
@@ -1082,10 +1097,10 @@ sdg_id,source,n
 2,American Journal of Medical Genetics,1
 2,American Journal of Obstetrics and Gynecology,1
 2,American Journal of Tropical Medicine and Hygiene,1
-2,Americanae (AECID Library),1
 2,Anais ... Encontro Nacional de Engenharia de Produção/Anais do Encontro Nacional de Engenharia de Produção,1
 2,Anais da Academia Brasileira de Ciências,1
 2,Anais do Congresso Brasileiro de Reumatologia 2020,1
+2,Annales Pharmaceutiques Françaises,1
 2,Annals of Tropical Medicine and Parasitology,1
 2,Appetite,1
 2,Applied Surface Science,1
@@ -1139,7 +1154,6 @@ sdg_id,source,n
 2,European Journal of Nutrition,1
 2,F&S Science,1
 2,Food Biophysics,1
-2,Food Bioscience,1
 2,Food and Humanity,1
 2,Foods,1
 2,Frontiers in Cellular and Infection Microbiology,1
@@ -1196,6 +1210,7 @@ sdg_id,source,n
 2,Journal of Parasitic Diseases,1
 2,Journal of Parenteral and Enteral Nutrition,1
 2,Journal of Physical Education,1
+2,Journal of Physical Education and Human Movement,1
 2,Journal of Sol-Gel Science and Technology,1
 2,Journal of Veterinary Diagnostic Investigation,1
 2,Journal of Vibration Engineering & Technologies,1
@@ -1203,6 +1218,7 @@ sdg_id,source,n
 2,Kidney International,1
 2,Lasers in Medical Science,1
 2,Livestock Science,1
+2,Livro de Resumos do X Congresso Brasileiro sobre Crustáceos,1
 2,Materials Research,1
 2,Materials Research Express,1
 2,Materials science forum,1
@@ -1273,6 +1289,7 @@ sdg_id,source,n
 2,Revista Portuguesa de Pneumologia,1
 2,Revista Rede de Cuidados em Saúde,1
 2,Revista de Atenção à Saúde,1
+2,Revista de Gastroenterología de México (English Edition),1
 2,Revista de Nutrição,1
 2,Revista de Pesquisa Cuidado é Fundamental Online,1
 2,Revista de Salud Pública,1
@@ -1305,7 +1322,7 @@ sdg_id,source,n
 2,O Biológico,1
 3,Revista da Sociedade Brasileira de Medicina Tropical,134
 3,Research Society and Development,70
-3,PubMed,68
+3,PubMed,69
 3,Revista Família Ciclos de Vida e Saúde no Contexto Social,61
 3,Brazilian Journal of Health Review,51
 3,Hematology Transfusion and Cell Therapy,43
@@ -1314,16 +1331,16 @@ sdg_id,source,n
 3,Revista Brasileira Ginecologia e Obstetrícia,34
 3,Revista Brasileira de Hematologia e Hemoterapia,30
 3,Revista da Associação Médica Brasileira,30
-3,Revista de Enfermagem e Atenção à Saúde,28
+3,Revista de Enfermagem e Atenção à Saúde,29
 3,PLoS ONE,27
 3,Journal of Coloproctology,26
 3,Research Square,26
 3,Revista Brasileira de Enfermagem,24
 3,Revista do Instituto de Medicina Tropical de São Paulo,24
 3,Revista Eletrônica de Enfermagem,22
+3,The Brazilian Journal of Infectious Diseases,22
 3,DOAJ (DOAJ: Directory of Open Access Journals),21
 3,Revista Latino-Americana de Enfermagem,21
-3,The Brazilian Journal of Infectious Diseases,21
 3,Texto & Contexto - Enfermagem,18
 3,Annals of Diagnostic Pathology,17
 3,Arquivos de Neuro-Psiquiatria,17
@@ -1338,10 +1355,12 @@ sdg_id,source,n
 3,Ciência & Saúde Coletiva,14
 3,Fisioterapia em Movimento,14
 3,Motriz Revista de Educação Física,14
+3,Revista Brasileira de Reumatologia,14
 3,"Revista Ibero-Americana de Humanidades, Ciências e Educação",14
 3,Pathology - Research and Practice,13
 3,Radiologia Brasileira,13
 3,Redalyc (Universidad Autónoma del Estado de México),13
+3,Revista Brasileira de Atividade Física & Saúde,13
 3,The Journal of Immunology,13
 3,Anais do Congresso Brasileiro da Associação Brasileira de Fisioterapia Traumato-Ortopédica - ABRAFITO,12
 3,Bioscience Journal,12
@@ -1350,20 +1369,19 @@ sdg_id,source,n
 3,Clinics,12
 3,ConScientiae Saúde,12
 3,Escola Anna Nery,12
-3,Revista Brasileira de Atividade Física & Saúde,12
-3,Revista Brasileira de Reumatologia,12
+3,Revista de Patologia Tropical / Journal of Tropical Pathology,12
 3,The Journal of Maternal-Fetal & Neonatal Medicine,12
 3,Acta Ortopédica Brasileira,11
 3,Archives of Gynecology and Obstetrics,11
 3,Autonomic Neuroscience,11
 3,Brazilian Journal of Anesthesiology,11
+3,Journal of Hypertension,11
 3,Medicina (Ribeirão Preto),11
 3,Revista Brasileira de Ortopedia,11
 3,Revista Eletrônica Acervo Saúde,11
 3,Revista gaúcha de enfermagem,11
 3,The FASEB Journal,11
 3,Immunobiology,10
-3,Journal of Hypertension,10
 3,Revista de Pesquisa Cuidado é Fundamental Online,10
 3,The Journal of Strength and Conditioning Research,10
 3,ABCD Arquivos Brasileiros de Cirurgia Digestiva (São Paulo),9
@@ -1375,7 +1393,6 @@ sdg_id,source,n
 3,Cogitare Enfermagem,9
 3,Fisioterapia e Pesquisa,9
 3,Revista de Enfermagem UFPE on line,9
-3,Revista de Patologia Tropical / Journal of Tropical Pathology,9
 3,ABCS Health Sciences,8
 3,Acta Biologica Brasiliensia.,8
 3,Acta Cirúrgica Brasileira,8
@@ -1384,6 +1401,7 @@ sdg_id,source,n
 3,Menopause The Journal of The North American Menopause Society,8
 3,Revista Brasileira de Geriatria e Gerontologia,8
 3,Revista Neurociências,8
+3,Revista de Terapia Ocupacional da Universidade de São Paulo,8
 3,Revista do Colégio Brasileiro de Cirurgiões,8
 3,Tumori Journal,8
 3,Acta Fisiátrica,7
@@ -1395,7 +1413,7 @@ sdg_id,source,n
 3,Life Sciences,7
 3,PLoS neglected tropical diseases,7
 3,Revista de Atenção à Saúde,7
-3,Revista de Terapia Ocupacional da Universidade de São Paulo,7
+3,Revista de Epidemiologia e Controle de Infecção,7
 3,Americanae (AECID Library),6
 3,Archives of Endocrinology and Metabolism,6
 3,Brazilian Journal of Anesthesiology (English Edition),6
@@ -1404,12 +1422,13 @@ sdg_id,source,n
 3,Disease Markers,6
 3,Fetal and Pediatric Pathology,6
 3,Immunology Letters,6
+3,Jornal Brasileiro de Patologia e Medicina Laboratorial,6
 3,Rev Rene,6
 3,Revista Brasileira de Cancerologia,6
-3,Revista de Epidemiologia e Controle de Infecção,6
 3,Revista de Saúde Pública,6
 3,Scientific Reports,6
 3,Arquivos de Ciências da Saúde da UNIPAR,5
+3,Brazilian Journal of Kinanthropometry and Human Performance,5
 3,Brazilian Journal of Physical Therapy,5
 3,CADERNOS DE EDUCAÇÃO SAÚDE E FISIOTERAPIA,5
 3,Clinical Medicine Insights Oncology,5
@@ -1420,7 +1439,7 @@ sdg_id,source,n
 3,Immunological Investigations,5
 3,International Immunopharmacology,5
 3,International Journal of Cardiology,5
-3,Jornal Brasileiro de Patologia e Medicina Laboratorial,5
+3,International journal of exercise science,5
 3,Jornal Brasileiro de Pneumologia,5
 3,Journal of Biomolecular Structure and Dynamics,5
 3,Journal of Immunology Research,5
@@ -1432,6 +1451,7 @@ sdg_id,source,n
 3,Parasitology Research,5
 3,Revista Brasileira de Epidemiologia,5
 3,Revista Brasileira de Saúde Materno Infantil,5
+3,Revista Portuguesa de Pneumologia,5
 3,Revista de Enfermagem da UFSM,5
 3,Revista do Hospital das Clínicas,5
 3,Saúde e Desenvolvimento Humano,5
@@ -1439,10 +1459,12 @@ sdg_id,source,n
 3,Acta Tropica,4
 3,Anais da Academia Brasileira de Ciências,4
 3,Applied Physiology Nutrition and Metabolism,4
-3,Brazilian Journal of Kinanthropometry and Human Performance,4
+3,BMC Infectious Diseases,4
+3,Biomedicines,4
 3,Clinical Immunology,4
 3,Cuadernos de Educación y Desarrollo,4
 3,Dialnet (Universidad de la Rioja),4
+3,Einstein (São Paulo),4
 3,Elsevier eBooks,4
 3,Epidemiologia e Serviços de Saúde,4
 3,European Journal of Gynaecological Oncology,4
@@ -1451,7 +1473,6 @@ sdg_id,source,n
 3,Human Pathology,4
 3,Hygeia - Revista Brasileira de Geografia Médica e da Saúde,4
 3,International Journal of Sports Medicine,4
-3,International journal of exercise science,4
 3,Journal of Clinical Ultrasound,4
 3,Journal of Stroke and Cerebrovascular Diseases,4
 3,Microscopy Research and Technique,4
@@ -1465,7 +1486,7 @@ sdg_id,source,n
 3,Revista Foco,4
 3,Revista Interinstitucional Brasileira de Terapia Ocupacional - REVISBRATO,4
 3,Revista Paulista de Pediatria,4
-3,Revista Portuguesa de Pneumologia,4
+3,Revista Sociedade Científica,4
 3,SSRN Electronic Journal,4
 3,Scandinavian Journal of Immunology,4
 3,Surgical and Experimental Pathology,4
@@ -1477,11 +1498,10 @@ sdg_id,source,n
 3,Archives of Oral Biology,3
 3,Archives of Pediatric Neurosurgery,3
 3,Arquivos de Gastroenterologia,3
-3,BMC Infectious Diseases,3
+3,Autopsy and Case Reports,3
 3,BMC Nephrology,3
 3,Behavioural Brain Research,3
 3,Biomarkers,3
-3,Biomedicines,3
 3,Bioorganic & Medicinal Chemistry Letters,3
 3,Brazilian Journal of Cardiovascular Surgery,3
 3,Cadernos Saúde Coletiva,3
@@ -1489,7 +1509,6 @@ sdg_id,source,n
 3,Clinical Nutrition ESPEN,3
 3,Clinical and Developmental Immunology,3
 3,Concilium,3
-3,Einstein (São Paulo),3
 3,Figshare,3
 3,Fisioterapia Brasil,3
 3,Frontiers in Cellular and Infection Microbiology,3
@@ -1525,12 +1544,12 @@ sdg_id,source,n
 3,Revista Cubana de Enfermería,3
 3,Revista Eletrônica Acervo Científico,3
 3,Revista Panamericana de Salud Pública,3
-3,Revista Sociedade Científica,3
 3,Revista de Enfermagem do Centro-Oeste Mineiro,3
 3,Saude coletiva (Barueri),3
 3,Saúde Coletiva (Barueri),3
 3,Sport Sciences for Health,3
 3,The Journal of Infection in Developing Countries,3
+3,The Journal of Sports Medicine and Physical Fitness,3
 3,Toxicon,3
 3,Transactions of the Royal Society of Tropical Medicine and Hygiene,3
 3,Venereology,3
@@ -1540,7 +1559,7 @@ sdg_id,source,n
 3,Anais Brasileiros de Dermatologia,2
 3,Anais do Congresso Brasileiro de Reumatologia 2020,2
 3,Arquivos Brasileiros de Neurocirurgia Brazilian Neurosurgery,2
-3,Autopsy and Case Reports,2
+3,Arquivos Brasileiros de Oftalmologia,2
 3,BMC Cancer,2
 3,BMC Public Health,2
 3,Brazilian Dental Journal,2
@@ -1567,6 +1586,7 @@ sdg_id,source,n
 3,Contribuciones a las Ciencias Sociales,2
 3,Critical Care,2
 3,Critical Care Medicine,2
+3,Cultura de los Cuidados,2
 3,Current HIV Research,2
 3,Current Medicinal Chemistry,2
 3,DELOS Desarrollo Local Sostenible,2
@@ -1611,6 +1631,7 @@ sdg_id,source,n
 3,Journal of Medical Case Reports,2
 3,Journal of Medical and Biosciences Research.,2
 3,Journal of Nephrology,2
+3,Journal of Neuroscience Methods,2
 3,Journal of Nuclear Cardiology,2
 3,Journal of Nursing Ufpe Online,2
 3,Journal of Nursing and Health,2
@@ -1628,6 +1649,7 @@ sdg_id,source,n
 3,Nephron Experimental Nephrology,2
 3,OMICS A Journal of Integrative Biology,2
 3,Online Brazilian Journal of Nursing,2
+3,Open Access Journal of Sports Medicine,2
 3,Pain Management,2
 3,Parasite Immunology,2
 3,Pathogens,2
@@ -1677,7 +1699,6 @@ sdg_id,source,n
 3,Sports Medicine International Open,2
 3,Stem Cells International,2
 3,Supportive Care in Cancer,2
-3,The Journal of Sports Medicine and Physical Fitness,2
 3,Tissue and Cell,2
 3,Topics in Stroke Rehabilitation,2
 3,Transfusion,2
@@ -1698,6 +1719,7 @@ sdg_id,source,n
 3,ARQUIVOS BRASILEIROS DE CARDIOLOGIA - IMAGEM CARDIOVASCULAR,1
 3,Acta Cytologica,1
 3,Acta Parasitologica,1
+3,Actas Españolas de Psiquiatría,1
 3,Adapted Physical Activity Quarterly,1
 3,Advances in Microbiology,1
 3,Advances in Pharmacology & Clinical Trials,1
@@ -1711,6 +1733,7 @@ sdg_id,source,n
 3,Aging Medicine,1
 3,Alcohol and Alcoholism,1
 3,Alzheimer s & Dementia,1
+3,Amazônia Science & Health,1
 3,American Journal of Cardiovascular Drugs,1
 3,American Journal of Infection Control,1
 3,American Journal of Medical Genetics,1
@@ -1746,7 +1769,6 @@ sdg_id,source,n
 3,Archives of Public Health,1
 3,Archivos de Medicina del Deporte,1
 3,Arquivo Brasileiro de Medicina Veterinária e Zootecnia,1
-3,Arquivos Brasileiros de Oftalmologia,1
 3,Arquivos Catarinenses de Medicina,1
 3,Arquivos de Ciências da Saúde,1
 3,Arquivos em Odontologia,1
@@ -1760,6 +1782,7 @@ sdg_id,source,n
 3,BMC Pediatrics,1
 3,BMC Sports Science Medicine and Rehabilitation,1
 3,BRAD Cases.,1
+3,Behavioral Neuroscience,1
 3,Beilstein Journal of Nanotechnology,1
 3,Biocell,1
 3,Biochimica et Biophysica Acta (BBA) - Reviews on Cancer,1
@@ -1846,7 +1869,6 @@ sdg_id,source,n
 3,Corpoconsciência,1
 3,Creative Education,1
 3,Critical Reviews in Microbiology,1
-3,Cultura de los Cuidados,1
 3,Current Atherosclerosis Reports,1
 3,Current Issues in Sport Science (CISS),1
 3,Current Opinion in Obstetrics & Gynecology,1
@@ -1874,6 +1896,7 @@ sdg_id,source,n
 3,Environmental Toxicology and Pharmacology,1
 3,Epilepsia,1
 3,Estilos da Clinica,1
+3,European Journal Of Haematology,1
 3,European Journal Of Oral Sciences,1
 3,European Journal of Cancer,1
 3,European Journal of Cancer Care,1
@@ -1950,7 +1973,9 @@ sdg_id,source,n
 3,International Journal of Emergency Medicine,1
 3,International Journal of Epidemiology,1
 3,International Journal of Experimental Pathology,1
+3,International Journal of Gynecology & Obstetrics,1
 3,International Journal of Infectious Diseases,1
+3,International Journal of Medical Sciences,1
 3,International Journal of Nephrology,1
 3,International Journal of Nutrology,1
 3,International Journal of Public Health,1
@@ -1974,6 +1999,7 @@ sdg_id,source,n
 3,Journal Of Clinical Periodontology,1
 3,Journal of Alzheimer s Disease,1
 3,Journal of Anesthesia & Critical Care Open Access,1
+3,Journal of Applied Pharmaceutical Science,1
 3,Journal of Assisted Reproduction and Genetics,1
 3,Journal of Biologically Active Products from Nature,1
 3,Journal of Biomedical Research & Environmental Sciences,1
@@ -2013,7 +2039,6 @@ sdg_id,source,n
 3,Journal of Movement & Health,1
 3,Journal of Neuro-Oncology,1
 3,Journal of Neurology,1
-3,Journal of Neuroscience Methods,1
 3,Journal of Neurosurgical Sciences,1
 3,Journal of Nursing Education and Practice,1
 3,Journal of Nursing Measurement,1
@@ -2078,6 +2103,7 @@ sdg_id,source,n
 3,Nuclear Receptor Research,1
 3,Nucleus Animalium,1
 3,Nurse Educator,1
+3,Nursing Edição Brasileira,1
 3,Nutrients,1
 3,Nutrire,1
 3,Nutrition,1
@@ -2087,13 +2113,14 @@ sdg_id,source,n
 3,Obesity Research & Clinical Practice,1
 3,Obesity Surgery,1
 3,Obstetrics & Gynecology Science,1
-3,Open Access Journal of Sports Medicine,1
+3,Obstetrics and Gynecology International,1
 3,Oral Surgery Oral Medicine Oral Pathology and Oral Radiology,1
 3,Oxidative Medicine and Cellular Longevity,1
 3,PM&R,1
 3,Paidéia (Ribeirão Preto),1
 3,Pain Management Nursing,1
 3,Parasites & Vectors,1
+3,Parasitologia,1
 3,Pathobiology,1
 3,Pathogens and Global Health,1
 3,Pathologica,1
@@ -2183,6 +2210,7 @@ sdg_id,source,n
 3,Revista de Ciência Veterinária e Saúde Pública,1
 3,Revista de Ciências Médicas,1
 3,Revista de Ciências da Saúde Nova Esperança,1
+3,Revista de Educação Popular,1
 3,Revista de Enfermagem Referência,1
 3,Revista de Enfermagem da UFPI,1
 3,Revista de Ensino de Biologia da SBEnBio,1
@@ -2274,9 +2302,9 @@ sdg_id,source,n
 4,Revista Intertexto,13
 4,DOAJ (DOAJ: Directory of Open Access Journals),12
 4,Cadernos CIMEAC,11
+4,Revista Latino-Americana de Enfermagem,11
 4,Revista gaúcha de enfermagem,11
 4,Revista Brasileira de Enfermagem,10
-4,Revista Latino-Americana de Enfermagem,10
 4,Revista Educação e Políticas em Debate,9
 4,Brazilian Journal of Development,8
 4,Educação em Revista,8
@@ -2288,6 +2316,7 @@ sdg_id,source,n
 4,Psicologia Escolar e Educacional,7
 4,Revista Iberoamericana de Educación,7
 4,Revista de Enfermagem e Atenção à Saúde,7
+4,Zenodo (CERN European Organization for Nuclear Research),7
 4,Acta Paulista de Enfermagem,6
 4,Educação (UFSM),6
 4,Em Aberto,6
@@ -2348,6 +2377,7 @@ sdg_id,source,n
 4,Educere et Educare,3
 4,Enfermería Global,3
 4,Escola Anna Nery,3
+4,Interface - Comunicação Saúde Educação,3
 4,Investigación y Educación en Enfermería,3
 4,Movimento (Porto Alegre),3
 4,New Trends in Qualitative Research,3
@@ -2387,12 +2417,14 @@ sdg_id,source,n
 4,Brazilian Journal of Physical Therapy,2
 4,Caderno Espaço Feminino,2
 4,Caderno Pedagógico,2
+4,Cadernos Brasileiros de Terapia Ocupacional ,2
 4,Cadernos de Linguagem e Sociedade,2
 4,Cadernos de Terapia Ocupacional da UFSCar,2
 4,Caminho Aberto revista de extensão do IFSC,2
 4,Caminhos de Geografia,2
 4,Cogitare Enfermagem,2
 4,Conjecturas,2
+4,Cultura de los Cuidados,2
 4,Debates em educação,2
 4,Dementia & Neuropsychologia,2
 4,Diálogos Pertinentes,2
@@ -2430,6 +2462,7 @@ sdg_id,source,n
 4,REVISTA INTERSABERES,2
 4,Research in Developmental Disabilities,2
 4,Rev Rene,2
+4,Revista Brasileira de Ortopedia,2
 4,Revista CEFAC,2
 4,Revista Contemporânea de Educação,2
 4,Revista Contexto & Educação,2
@@ -2448,6 +2481,7 @@ sdg_id,source,n
 4,Revista Paulista de Pediatria,2
 4,Revista Recien,2
 4,Revista Tempos e Espaços em Educação,2
+4,Revista Thema,2
 4,Revista Tópicos.,2
 4,Revista da Escola de Enfermagem da USP,2
 4,Revista de Educação Matemática,2
@@ -2465,7 +2499,6 @@ sdg_id,source,n
 4,Temas em Educação e Saúde,2
 4,Teoria e Prática da Educação,2
 4,Trabalhos em Linguística Aplicada,2
-4,Zenodo (CERN European Organization for Nuclear Research),2
 4,#Tear Revista de Educação Ciência e Tecnologia,1
 4,12º Congresso Internacional da Rede Unida,1
 4,A Cor das Letras,1
@@ -2498,7 +2531,6 @@ sdg_id,source,n
 4,CIET:EnPED,1
 4,Caderno Brasileiro de Ensino de Física,1
 4,Caderno de Educação Física e Esporte,1
-4,Cadernos Brasileiros de Terapia Ocupacional ,1
 4,Cadernos CESPUC de Pesquisa. Série Ensaios,1
 4,Cadernos Saúde Coletiva,1
 4,Cadernos de Educação Tecnologia e Sociedade,1
@@ -2514,6 +2546,7 @@ sdg_id,source,n
 4,Cinergis,1
 4,Ciência & Saúde Coletiva,1
 4,Ciência & Trópico,1
+4,Ciência Cuidado e Saúde,1
 4,Ciência e Natura,1
 4,Ciências & Cognição,1
 4,Clinics,1
@@ -2527,7 +2560,6 @@ sdg_id,source,n
 4,Contextos Clínicos,1
 4,Creative Education,1
 4,Cuerpo Cultura y Movimiento,1
-4,Cultura de los Cuidados,1
 4,Cultural Studies of Science Education,1
 4,DELTA Documentação de Estudos em Lingüística Teórica e Aplicada,1
 4,"DLCV - Língua, Linguística & Literatura",1
@@ -2576,7 +2608,6 @@ sdg_id,source,n
 4,INTERDISCIPLINAR - Revista de Estudos em Língua e Literatura,1
 4,Informática na educação teoria & prática,1
 4,Interação - Revista de Ensino Pesquisa e Extensão,1
-4,Interface - Comunicação Saúde Educação,1
 4,Interfaces Científicas - Educação,1
 4,International Education Studies,1
 4,International Journal for Innovation Education and Research,1
@@ -2749,7 +2780,6 @@ sdg_id,source,n
 4,Revista TEIAS,1
 4,Revista Tamoios,1
 4,Revista Temas em Educação,1
-4,Revista Thema,1
 4,Revista Tocantinense de Geografia,1
 4,Revista Visão Gestão Organizacional,1
 4,Revista da Anpoll,1
@@ -2836,6 +2866,7 @@ sdg_id,source,n
 5,Revista Avaliação Psicológica,3
 5,Revista Brasileira de Medicina do Trabalho,3
 5,Revista Eletrônica de Enfermagem,3
+5,Revista de Pesquisa Cuidado é Fundamental Online,3
 5,Revista de Terapia Ocupacional da Universidade de São Paulo,3
 5,Revista Ártemis,3
 5,Sport Sciences for Health,3
@@ -2869,7 +2900,6 @@ sdg_id,source,n
 5,Revista da Escola de Enfermagem da USP,2
 5,Revista da SPAGESP,2
 5,Revista de Enfermagem e Atenção à Saúde,2
-5,Revista de Pesquisa Cuidado é Fundamental Online,2
 5,Revista do Sell,2
 5,Revista gaúcha de enfermagem,2
 5,SSRN Electronic Journal,2
@@ -3029,6 +3059,7 @@ sdg_id,source,n
 5,The Foot,1
 5,The Journal of Strength and Conditioning Research,1
 5,The Journal of the Food and Culture of the Americas,1
+5,The Korean journal of pain,1
 5,The Spanish Journal of Psychology,1
 5,Trauma Violence & Abuse,1
 5,Vínculo - Revista do NESME,1
@@ -3042,6 +3073,7 @@ sdg_id,source,n
 6,Revista da Sociedade Brasileira de Medicina Tropical,5
 6,Ambiente e Agua - An Interdisciplinary Journal of Applied Science,4
 6,Applied Biochemistry and Biotechnology,3
+6,Brazilian Journal of Chemical Engineering,3
 6,Engenharia Agrícola,3
 6,Industrial & Engineering Chemistry Research,3
 6,Journal of Water Process Engineering,3
@@ -3049,7 +3081,6 @@ sdg_id,source,n
 6,Revista Brasileira de Recursos Hídricos,3
 6,Water Air & Soil Pollution,3
 6,Acta Scientiarum. Technology/Acta scientiarum. Technology,2
-6,Brazilian Journal of Chemical Engineering,2
 6,Brazilian Journal of Development,2
 6,Brazilian Oral Research,2
 6,ChemistrySelect,2
@@ -3136,6 +3167,7 @@ sdg_id,source,n
 6,Environmental Earth Sciences,1
 6,Environmental Engineering Science,1
 6,Environmental Microbiology Reports,1
+6,Environmental Monitoring and Assessment,1
 6,Environmental Quality Management,1
 6,Environmental Research,1
 6,Environmental Technology,1
@@ -3224,6 +3256,7 @@ sdg_id,source,n
 7,Renewable Energy and Power Quality Journal,11
 7,The Journal of Chemical Physics,7
 7,Chemical Physics Letters,6
+7,Journal of High Energy Physics,6
 7,Anais da XIV Conferência Brasileira sobre Qualidade da Energia Elétrica,5
 7,Journal of Luminescence,5
 7,Revista Brasileira de Ciência Tecnologia e Inovação,5
@@ -3258,6 +3291,7 @@ sdg_id,source,n
 7,Materials Chemistry and Physics,2
 7,Optical Materials,2
 7,The Journal of Physical Chemistry B,2
+7,Zenodo (CERN European Organization for Nuclear Research),2
 7,arXiv (Cornell University),2
 7,bioRxiv (Cold Spring Harbor Laboratory),2
 7,physica status solidi (a),2
@@ -3326,7 +3360,6 @@ sdg_id,source,n
 7,Journal of Energy Storage,1
 7,Journal of Equine Veterinary Science,1
 7,Journal of Food Process Engineering,1
-7,Journal of High Energy Physics,1
 7,Journal of Low Temperature Physics,1
 7,Journal of Magnetism and Magnetic Materials,1
 7,Journal of Material Science and Technology Research,1
@@ -3350,7 +3383,9 @@ sdg_id,source,n
 7,Materials science forum,1
 7,Matéria (Rio de Janeiro),1
 7,Mechanical Engineering,1
+7,Mechanisms and machine science,1
 7,Molecules,1
+7,Nature,1
 7,Next Materials,1
 7,Optics Letters,1
 7,Orbital - The Electronic Journal of Chemistry,1
@@ -3371,6 +3406,7 @@ sdg_id,source,n
 7,Relevant lines of scientific research: theory and practice,1
 7,Renewable Energy,1
 7,Revista Brasileira Multidisciplinar,1
+7,Revista Brasileira de Aplicações de Vácuo,1
 7,Revista Brasileira de Engenharia Agrícola e Ambiental,1
 7,Revista Brasileira de Ensino de Física,1
 7,Revista Brasileira de Ortopedia (English Edition),1
@@ -3419,6 +3455,7 @@ sdg_id,source,n
 8,Escritas/Revista Escritas,1
 8,"GEPROS. Gestão da Produção, Operações e Sistemas",1
 8,IEEE Open Journal of Industry Applications,1
+8,International Archives of Medicine,1
 8,International Journal of Business and Social Research,1
 8,International Journal of Environmental Research and Public Health,1
 8,Investigación y Educación en Enfermería,1
