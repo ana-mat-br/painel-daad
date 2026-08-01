@@ -1,4 +1,34 @@
 origem,destino,peso
+i|l|aparecida pascucci sande de souza,i|g|jose luvizutto,50
+i|l|aparecida pascucci sande de souza,i|l|jorge patrizzi,5
+i|l|aparecida pascucci sande de souza,i|a|paula espindula,11
+i|l|aparecida pascucci sande de souza,i|v|de paula antunes teixeira,8
+i|l|aparecida pascucci sande de souza,f|dernival|bertoncello,4
+i|l|aparecida pascucci sande de souza,i|l|fernanda rodrigues martinho fernandes,11
+i|l|aparecida pascucci sande de souza,f|karina|pereira,3
+i|l|aparecida pascucci sande de souza,i|c|lourencini cavellani,2
+i|a|paula espindula,i|v|de paula antunes teixeira,35
+i|a|paula espindula,i|c|jose freire oliveira,2
+i|a|paula espindula,i|w|francisco rodrigues,2
+i|a|paula espindula,i|s|aparecida de lima pereira,6
+i|a|paula espindula,i|c|lourencini cavellani,12
+i|a|paula espindula,i|r|rosa miranda correa,6
+i|a|paula espindula,i|m|falangola accioly,3
+i|a|paula espindula,i|l|penna rocha,3
+i|a|paula espindula,i|m|antonia dos reis,5
+i|a|paula espindula,f|joilson|meneguci,2
+i|k|goncalves do nascimento,i|k|faria de oliveira,5
+i|k|goncalves do nascimento,i|m|helena barbosa,10
+i|k|goncalves do nascimento,i|s|regina ribeiro chavaglia,9
+i|k|goncalves do nascimento,i|m|marques dos santos felix,4
+i|k|goncalves do nascimento,f|divanice|contim,2
+i|k|goncalves do nascimento,i|m|paula custodio silva,2
+i|k|goncalves do nascimento,f|elizabeth|barichello,2
+i|r|s silva,i|m|s da luz,2
+i|w|wey moreira,f|regina|simoes,15
+i|l|marina scatena,f|joilson|meneguci,2
+i|l|marina scatena,i|a|da silva santos,2
+i|l|marina scatena,i|m|de fatima borges,3
 i|m|pereira rezende,i|l|aparecida ferreira,19
 i|m|pereira rezende,i|f|aparecida dias,2
 i|m|pereira rezende,i|b|ferreira goulart,7
@@ -7,64 +37,11 @@ i|m|pereira rezende,i|a|da silva santos,2
 i|m|pereira rezende,i|f|carolina camargo,2
 i|m|pereira rezende,i|g|de araujo pereira,2
 i|m|pereira rezende,i|l|augusto alves garcia,2
-i|c|jose freire oliveira,i|a|de paula rogerio,5
-i|c|jose freire oliveira,f|marcos|silva,69
-i|c|jose freire oliveira,f|virmondes|rodrigues,55
-i|c|jose freire oliveira,i|c|botelho miguel,18
-i|c|jose freire oliveira,i|j|emilio lazo chica,14
-i|c|jose freire oliveira,i|s|de castro soares,22
-i|c|jose freire oliveira,i|w|francisco rodrigues,38
-i|c|jose freire oliveira,i|d|bertulucci rocha rodrigues,8
-i|c|jose freire oliveira,i|j|reis machado,13
-i|c|jose freire oliveira,i|e|lages silva,4
-i|c|jose freire oliveira,i|l|eduardo ramırez,3
-i|c|jose freire oliveira,i|j|aparecido moreto,4
-i|c|jose freire oliveira,i|r|valentim gelamo,5
-i|c|jose freire oliveira,i|l|euripedes andrade silva,8
-i|c|jose freire oliveira,i|f|bernadelli de vito,5
-i|c|jose freire oliveira,i|f|rodrigues helmo,6
-i|c|jose freire oliveira,i|c|gomez hernandez,3
-i|c|jose freire oliveira,i|r|guillermo nascimento ferreira,3
-i|c|jose freire oliveira,i|v|jose dias da silva,2
-i|c|jose freire oliveira,i|a|paula espindula,2
-i|c|jose freire oliveira,i|h|moraes souza,4
-i|c|jose freire oliveira,i|k|ferreira paim,3
-i|c|jose freire oliveira,f|dalmo|correia,2
-i|c|jose freire oliveira,f|divanice|contim,3
-i|c|jose freire oliveira,f|joilson|meneguci,2
-i|c|jose freire oliveira,i|m|torreglosa ruiz,5
-i|c|jose freire oliveira,i|r|junio de oliveira,2
-i|c|jose freire oliveira,i|k|faria de oliveira,2
-i|c|jose freire oliveira,i|m|carvalho paschoini,2
-i|c|jose freire oliveira,f|afonso|pelli,3
-i|c|jose freire oliveira,i|s|jorge adad,2
-i|s|elaine malaguti toffano,f|divanice|contim,10
-i|s|elaine malaguti toffano,i|a|cristina nicolussi,9
-i|s|elaine malaguti toffano,i|m|paula custodio silva,3
-i|s|elaine malaguti toffano,i|r|euripedes da silveira,2
-i|s|elaine malaguti toffano,i|v|jose haas,2
-i|m|sousa pegorari,i|d|mara dos santos tavares,10
-i|m|sousa pegorari,i|l|jorge patrizzi,9
-i|m|sousa pegorari,i|s|gomes novais shimano,2
-i|m|sousa pegorari,i|i|aparecida porcatti de walsh,7
-i|m|sousa pegorari,i|f|aparecida dias,6
-i|m|sousa pegorari,i|p|cristina dos santos ferreira,3
-i|m|sousa pegorari,i|m|falangola accioly,2
-i|m|sousa pegorari,i|l|resende rodrigues,2
-i|m|sousa pegorari,i|g|fiori marchiori,2
-i|l|resende rodrigues,i|d|mara dos santos tavares,25
-i|l|resende rodrigues,i|h|hemiko iwamoto,2
-i|l|resende rodrigues,i|f|aparecida dias,9
-i|l|resende rodrigues,i|p|cristina dos santos ferreira,6
-i|l|resende rodrigues,i|b|ferreira goulart,10
-i|l|resende rodrigues,i|a|lucia de assis simoes,2
-i|l|resende rodrigues,i|l|aparecida ferreira,3
-i|l|resende rodrigues,i|b|dias miranda parreira,2
-i|l|resende rodrigues,i|f|rodrigues helmo,3
 i|l|euripedes andrade silva,i|k|ferreira paim,19
 i|l|euripedes andrade silva,i|m|leon silva vergara,22
 i|l|euripedes andrade silva,f|marcos|silva,11
 i|l|euripedes andrade silva,f|virmondes|rodrigues,9
+i|l|euripedes andrade silva,i|c|jose freire oliveira,8
 i|l|euripedes andrade silva,i|s|de castro soares,2
 i|l|euripedes andrade silva,i|a|luiz pedrosa,4
 i|l|euripedes andrade silva,i|e|lages silva,2
@@ -73,162 +50,233 @@ i|l|euripedes andrade silva,i|f|rodrigues helmo,3
 i|l|euripedes andrade silva,i|h|moraes souza,3
 i|l|euripedes andrade silva,i|w|francisco rodrigues,2
 i|l|euripedes andrade silva,i|a|de paula rogerio,3
-f|regina|simoes,i|w|wey moreira,15
-i|r|margarida etchebehere,f|marcos|silva,2
-i|r|margarida etchebehere,i|j|reis machado,5
-i|r|margarida etchebehere,i|m|antonia dos reis,5
-i|r|margarida etchebehere,i|r|rosa miranda correa,5
-i|r|margarida etchebehere,i|f|rodrigues helmo,4
-i|r|margarida etchebehere,i|l|penna rocha,3
-i|r|margarida etchebehere,i|s|jorge adad,10
-i|r|margarida etchebehere,i|d|bertulucci rocha rodrigues,4
-i|r|margarida etchebehere,i|s|aparecida de lima pereira,8
-i|r|margarida etchebehere,i|m|leon silva vergara,5
-i|r|margarida etchebehere,i|e|fernando candido murta,8
-i|r|margarida etchebehere,i|r|simoes nomelini,6
-i|r|margarida etchebehere,i|j|emilio lazo chica,2
-i|r|margarida etchebehere,i|m|antoniazi michelin,2
-i|r|margarida etchebehere,f|eduardo|crema,3
-i|r|margarida etchebehere,i|a|augusto da silva,2
-i|c|gomez hernandez,i|a|luiz pedrosa,3
-i|c|gomez hernandez,i|e|lages silva,6
-i|c|gomez hernandez,i|l|eduardo ramırez,8
-i|c|gomez hernandez,f|marcos|silva,8
-i|c|gomez hernandez,f|virmondes|rodrigues,11
-i|c|gomez hernandez,i|j|reis machado,3
-i|c|gomez hernandez,i|f|rodrigues helmo,2
-i|c|gomez hernandez,i|f|bernadelli de vito,2
-i|c|gomez hernandez,i|h|moraes souza,2
-i|m|falangola accioly,i|i|aparecida porcatti de walsh,9
-i|m|falangola accioly,i|l|jorge patrizzi,3
-i|m|falangola accioly,i|a|paula espindula,3
-i|m|falangola accioly,i|v|de paula antunes teixeira,2
+i|m|helena barbosa,f|elizabeth|barichello,58
+i|m|helena barbosa,i|m|marques dos santos felix,39
+i|m|helena barbosa,i|a|cristina nicolussi,7
+i|m|helena barbosa,i|k|faria de oliveira,18
+i|m|helena barbosa,i|s|regina ribeiro chavaglia,17
+i|m|helena barbosa,i|a|lucia de assis simoes,2
+i|m|helena barbosa,i|l|aparecida ferreira,11
+i|m|helena barbosa,i|v|jose haas,13
+i|m|helena barbosa,i|d|ferreira da cunha,4
+i|m|helena barbosa,i|h|hemiko iwamoto,3
+i|r|simoes nomelini,i|b|martins tavares murta,9
+i|r|simoes nomelini,i|e|fernando candido murta,51
+i|r|simoes nomelini,i|f|lera orsatti,10
+i|r|simoes nomelini,i|s|jorge adad,4
+i|r|simoes nomelini,i|m|antoniazi michelin,12
+i|r|simoes nomelini,i|r|margarida etchebehere,6
+i|r|simoes nomelini,i|l|ronan marquez ferreira de souza,4
+i|r|simoes nomelini,i|m|vinicius campos souza,3
+i|r|simoes nomelini,i|m|carvalho paschoini,2
+i|l|fernanda rodrigues martinho fernandes,f|eduardo|crema,3
+i|l|fernanda rodrigues martinho fernandes,i|i|aparecida porcatti de walsh,2
+i|l|fernanda rodrigues martinho fernandes,i|l|jorge patrizzi,2
+i|l|fernanda rodrigues martinho fernandes,f|dernival|bertoncello,10
+i|l|fernanda rodrigues martinho fernandes,f|karina|pereira,2
+i|m|aparecida spadotto balarin,f|virmondes|rodrigues,2
+i|m|aparecida spadotto balarin,i|a|bernadete trovo de marqui,7
+i|m|aparecida spadotto balarin,i|m|carvalho paschoini,3
+i|m|aparecida spadotto balarin,i|s|riul da silva,5
+i|a|bernadete trovo de marqui,i|m|paula custodio silva,3
+i|a|bernadete trovo de marqui,i|v|jose haas,2
+i|a|bernadete trovo de marqui,i|m|de fatima borges,4
+i|m|antoniazi michelin,i|e|fernando candido murta,55
+i|m|antoniazi michelin,i|f|lera orsatti,11
+i|m|antoniazi michelin,i|s|jorge adad,8
+i|m|antoniazi michelin,i|f|carolina ribeiro dias,2
+i|m|antoniazi michelin,i|r|margarida etchebehere,2
+i|m|antoniazi michelin,i|j|emilio lazo chica,3
 i|m|leon silva vergara,i|k|ferreira paim,23
+i|m|leon silva vergara,i|e|fernando candido murta,3
 i|m|leon silva vergara,f|aluizio|prata,9
 i|m|leon silva vergara,f|virmondes|rodrigues,11
 i|m|leon silva vergara,i|l|de almeida silva teixeira,4
+i|m|leon silva vergara,i|e|lages silva,5
 i|m|leon silva vergara,f|marcos|silva,4
 i|m|leon silva vergara,i|e|lacerda mendes,8
 i|m|leon silva vergara,i|s|jorge adad,12
-i|m|leon silva vergara,f|dalmo|correia,5
-i|m|leon silva vergara,i|e|lages silva,4
 i|m|leon silva vergara,i|s|de castro soares,2
+i|m|leon silva vergara,i|r|margarida etchebehere,6
 i|m|leon silva vergara,i|a|luiz pedrosa,6
 i|m|leon silva vergara,i|m|antonia dos reis,2
+i|m|leon silva vergara,f|dalmo|correia,5
 i|m|leon silva vergara,i|d|ferreira da cunha,4
-i|m|leon silva vergara,i|a|de paula rogerio,5
 i|m|leon silva vergara,i|m|aurelho de lima,2
-i|m|leon silva vergara,i|e|fernando candido murta,2
-i|f|scorsolini comin,i|s|martins barroso,3
-i|j|aparecido moreto,i|r|valentim gelamo,22
-i|j|aparecido moreto,f|marcos|silva,5
-i|j|aparecido moreto,i|p|i s maia,2
-i|j|aparecido moreto,i|d|carneiro ferreira,2
-i|h|moraes souza,f|aluizio|prata,2
-i|h|moraes souza,f|virmondes|rodrigues,14
-i|h|moraes souza,i|l|de almeida silva teixeira,2
-i|h|moraes souza,i|f|bernadelli de vito,22
-i|h|moraes souza,i|g|de araujo pereira,19
-i|h|moraes souza,f|marcos|silva,7
-i|h|moraes souza,i|f|rodrigues helmo,4
-i|h|moraes souza,i|k|ferreira paim,3
-i|h|moraes souza,i|w|francisco rodrigues,3
-i|h|moraes souza,f|joilson|meneguci,2
-i|h|moraes souza,f|fb|vito,18
-i|h|moraes souza,f|scsv|tanaka,11
-i|h|moraes souza,f|acdm|carneiro,15
-i|f|lera orsatti,i|l|ronan marquez ferreira de souza,4
-i|f|lera orsatti,i|e|fernando candido murta,14
-i|f|lera orsatti,i|m|antoniazi michelin,11
-i|f|lera orsatti,i|g|vannucchi portari,8
-i|f|lera orsatti,i|r|simoes nomelini,10
-i|f|lera orsatti,i|g|ribeiro da mota,5
-i|f|lera orsatti,i|o|barbosa neto,3
-i|f|lera orsatti,f|marcos|silva,2
-i|f|lera orsatti,i|m|vinicius campos souza,25
-i|f|lera orsatti,i|j|emilio lazo chica,3
-i|k|goncalves do nascimento,i|k|faria de oliveira,5
-i|k|goncalves do nascimento,i|m|helena barbosa,10
-i|k|goncalves do nascimento,i|s|regina ribeiro chavaglia,9
-i|k|goncalves do nascimento,i|m|marques dos santos felix,4
-i|k|goncalves do nascimento,f|divanice|contim,2
-i|k|goncalves do nascimento,i|m|paula custodio silva,2
-i|k|goncalves do nascimento,f|elizabeth|barichello,2
-i|r|valentim gelamo,i|m|s da luz,3
-i|r|valentim gelamo,i|j|cesar de souza inacio goncalves,3
-i|r|valentim gelamo,f|marcos|silva,7
-i|r|valentim gelamo,i|d|carneiro ferreira,4
-i|h|cristina figueiredo frizzo,i|l|aparecida ferreira,2
-i|d|ferreira moreira lobato,i|s|gomes novais shimano,2
-i|d|ferreira moreira lobato,f|dernival|bertoncello,9
-f|aluizio|prata,f|dalmo|correia,13
-f|aluizio|prata,f|virmondes|rodrigues,7
-f|aluizio|prata,i|l|de almeida silva teixeira,6
-f|aluizio|prata,i|e|lages silva,3
-f|aluizio|prata,i|l|eduardo ramırez,2
-f|aluizio|prata,i|v|jose dias da silva,5
-f|aluizio|prata,i|m|antonia dos reis,2
-i|j|cesar de souza inacio goncalves,i|m|s da luz,13
-i|j|cesar de souza inacio goncalves,i|d|carneiro ferreira,14
-i|j|cesar de souza inacio goncalves,i|g|roger pointer malpass,2
-f|virmondes|rodrigues,f|dalmo|correia,18
+i|m|leon silva vergara,i|a|de paula rogerio,5
+f|virmondes|rodrigues,f|aluizio|prata,6
+f|virmondes|rodrigues,f|dalmo|correia,17
 f|virmondes|rodrigues,f|marcos|silva,96
 f|virmondes|rodrigues,i|d|bertulucci rocha rodrigues,43
 f|virmondes|rodrigues,i|c|botelho miguel,2
+f|virmondes|rodrigues,i|c|jose freire oliveira,55
+f|virmondes|rodrigues,i|j|reis machado,22
 f|virmondes|rodrigues,i|s|aparecida de lima pereira,14
 f|virmondes|rodrigues,i|m|antonia dos reis,8
 f|virmondes|rodrigues,i|v|de paula antunes teixeira,2
+f|virmondes|rodrigues,i|h|moraes souza,14
 f|virmondes|rodrigues,i|l|de almeida silva teixeira,8
-f|virmondes|rodrigues,i|j|reis machado,22
-f|virmondes|rodrigues,i|m|aparecida spadotto balarin,2
 f|virmondes|rodrigues,i|k|ferreira paim,6
 f|virmondes|rodrigues,i|j|emilio lazo chica,8
 f|virmondes|rodrigues,i|e|lages silva,8
 f|virmondes|rodrigues,i|l|eduardo ramırez,8
 f|virmondes|rodrigues,i|w|francisco rodrigues,8
+f|virmondes|rodrigues,i|c|gomez hernandez,11
 f|virmondes|rodrigues,i|v|jose dias da silva,6
+f|virmondes|rodrigues,i|m|de lucca moreira gomes,2
 f|virmondes|rodrigues,i|s|de castro soares,6
 f|virmondes|rodrigues,i|f|bernadelli de vito,15
 f|virmondes|rodrigues,i|f|rodrigues helmo,10
-f|virmondes|rodrigues,i|a|de paula rogerio,6
+f|virmondes|rodrigues,i|m|carvalho paschoini,4
 f|virmondes|rodrigues,i|g|de araujo pereira,5
+f|virmondes|rodrigues,i|a|de paula rogerio,6
 f|virmondes|rodrigues,f|eduardo|crema,8
 f|virmondes|rodrigues,i|d|ferreira da cunha,2
 f|virmondes|rodrigues,i|s|jorge adad,4
 f|virmondes|rodrigues,i|a|luiz pedrosa,3
-f|virmondes|rodrigues,i|m|carvalho paschoini,4
 f|virmondes|rodrigues,i|m|de fatima borges,7
 f|virmondes|rodrigues,i|o|barbosa neto,2
 f|virmondes|rodrigues,i|a|augusto da silva,4
 f|virmondes|rodrigues,f|afonso|pelli,4
-i|m|torreglosa ruiz,i|b|dias miranda parreira,10
-i|m|torreglosa ruiz,i|b|ferreira goulart,9
-i|m|torreglosa ruiz,i|s|riul da silva,12
-i|m|torreglosa ruiz,i|m|carvalho paschoini,16
-i|m|torreglosa ruiz,f|divanice|contim,31
-i|m|torreglosa ruiz,i|m|paula custodio silva,17
-i|m|torreglosa ruiz,i|k|faria de oliveira,14
-i|m|torreglosa ruiz,f|joilson|meneguci,3
-i|m|torreglosa ruiz,i|w|francisco rodrigues,5
-i|m|torreglosa ruiz,i|j|bonolo do amaral rocha,6
-i|m|torreglosa ruiz,i|s|regina ribeiro chavaglia,6
-i|m|torreglosa ruiz,i|g|de araujo pereira,2
-i|m|torreglosa ruiz,f|elizabeth|barichello,5
-i|m|torreglosa ruiz,i|a|cristina nicolussi,3
-i|a|cristina nicolussi,i|k|faria de oliveira,3
-i|a|cristina nicolussi,i|m|helena barbosa,7
-i|a|cristina nicolussi,i|s|regina ribeiro chavaglia,3
-i|a|cristina nicolussi,f|elizabeth|barichello,7
-i|a|cristina nicolussi,i|b|ferreira goulart,4
-i|a|cristina nicolussi,i|v|jose haas,2
-i|a|cristina nicolussi,i|l|aparecida ferreira,2
+f|acdm|carneiro,f|fb|vito,38
+f|acdm|carneiro,f|scsv|tanaka,29
+f|acdm|carneiro,i|h|moraes souza,15
+f|acdm|carneiro,i|f|bernadelli de vito,2
+i|m|hitomi okura,i|a|claudia granato,16
+i|m|hitomi okura,i|g|roger pointer malpass,13
+i|p|donizete colombo,i|d|fernando bovolenta ovigli,17
+i|a|christian ribeiro andaki,i|e|lacerda mendes,29
+i|a|christian ribeiro andaki,i|g|ribeiro da mota,3
+i|a|christian ribeiro andaki,i|j|eidi sasaki,3
+i|a|christian ribeiro andaki,i|c|bosquiero papini,5
+f|sheilla|tribess,f|joilson|meneguci,24
+f|sheilla|tribess,i|j|eidi sasaki,17
+f|sheilla|tribess,i|j|sindra virtuoso junior,50
+f|sheilla|tribess,i|c|bosquiero papini,3
+i|f|scorsolini comin,i|s|martins barroso,3
+i|g|roger pointer malpass,i|a|claudia granato,33
+i|g|roger pointer malpass,i|d|carneiro ferreira,4
+i|g|roger pointer malpass,i|j|cesar de souza inacio goncalves,2
+i|c|botelho miguel,f|marcos|silva,3
+i|c|botelho miguel,i|c|jose freire oliveira,18
+i|c|botelho miguel,i|w|francisco rodrigues,35
+i|c|botelho miguel,i|j|emilio lazo chica,13
+i|c|botelho miguel,i|s|de castro soares,6
+i|l|aparecida kauchakje pedrosa,i|v|jose haas,5
+i|l|aparecida kauchakje pedrosa,i|l|aparecida ferreira,2
+i|l|aparecida kauchakje pedrosa,i|b|ferreira goulart,2
+i|c|gomez hernandez,i|a|luiz pedrosa,3
+i|c|gomez hernandez,i|e|lages silva,6
+i|c|gomez hernandez,i|l|eduardo ramırez,8
+i|c|gomez hernandez,f|marcos|silva,8
+i|c|gomez hernandez,i|c|jose freire oliveira,3
+i|c|gomez hernandez,i|j|reis machado,3
+i|c|gomez hernandez,i|f|rodrigues helmo,2
+i|c|gomez hernandez,i|f|bernadelli de vito,2
+i|c|gomez hernandez,i|h|moraes souza,2
+i|j|reis machado,f|marcos|silva,52
+i|j|reis machado,i|m|antonia dos reis,54
+i|j|reis machado,i|r|margarida etchebehere,5
+i|j|reis machado,i|r|rosa miranda correa,31
+i|j|reis machado,i|f|rodrigues helmo,15
+i|j|reis machado,i|l|penna rocha,27
+i|j|reis machado,i|c|lourencini cavellani,2
+i|j|reis machado,i|v|de paula antunes teixeira,5
+i|j|reis machado,i|c|jose freire oliveira,14
+i|j|reis machado,i|d|bertulucci rocha rodrigues,11
+i|j|reis machado,i|e|lages silva,4
+i|j|reis machado,i|l|eduardo ramırez,3
+i|j|reis machado,i|v|jose dias da silva,3
+i|j|reis machado,i|f|bernadelli de vito,2
+i|j|reis machado,f|dalmo|correia,4
+i|j|reis machado,i|l|de almeida silva teixeira,2
+i|j|reis machado,i|w|francisco rodrigues,4
+i|p|i s maia,i|r|junio de oliveira,7
+i|p|i s maia,i|j|aparecido moreto,2
+i|p|i s maia,f|marcos|silva,2
+i|c|jose freire oliveira,f|marcos|silva,69
+i|c|jose freire oliveira,i|d|bertulucci rocha rodrigues,8
+i|c|jose freire oliveira,i|j|emilio lazo chica,14
+i|c|jose freire oliveira,i|s|de castro soares,22
+i|c|jose freire oliveira,i|w|francisco rodrigues,38
+i|c|jose freire oliveira,i|a|de paula rogerio,5
+i|c|jose freire oliveira,i|e|lages silva,4
+i|c|jose freire oliveira,i|l|eduardo ramırez,3
+i|c|jose freire oliveira,i|j|aparecido moreto,4
+i|c|jose freire oliveira,i|r|valentim gelamo,5
+i|c|jose freire oliveira,i|m|de lucca moreira gomes,2
+i|c|jose freire oliveira,i|f|bernadelli de vito,5
+i|c|jose freire oliveira,i|f|rodrigues helmo,6
+i|c|jose freire oliveira,i|r|guillermo nascimento ferreira,3
+i|c|jose freire oliveira,i|v|jose dias da silva,2
+i|c|jose freire oliveira,i|h|moraes souza,4
+i|c|jose freire oliveira,i|k|ferreira paim,3
+i|c|jose freire oliveira,f|dalmo|correia,2
+i|c|jose freire oliveira,f|divanice|contim,3
+i|c|jose freire oliveira,f|joilson|meneguci,2
+i|c|jose freire oliveira,i|m|torreglosa ruiz,5
+i|c|jose freire oliveira,i|k|faria de oliveira,2
+i|c|jose freire oliveira,i|m|carvalho paschoini,2
+i|c|jose freire oliveira,i|r|junio de oliveira,2
+i|c|jose freire oliveira,f|afonso|pelli,3
+i|c|jose freire oliveira,i|s|jorge adad,2
+i|a|luiz pedrosa,i|e|lages silva,16
+i|a|luiz pedrosa,i|l|eduardo ramırez,13
+i|a|luiz pedrosa,f|dalmo|correia,3
+i|a|luiz pedrosa,i|k|ferreira paim,5
+i|a|luiz pedrosa,i|f|bernadelli de vito,2
+i|l|penna rocha,i|f|rodrigues helmo,9
+i|l|penna rocha,i|m|antonia dos reis,37
+i|l|penna rocha,i|r|margarida etchebehere,3
+i|l|penna rocha,i|r|rosa miranda correa,38
+i|l|penna rocha,f|marcos|silva,9
+i|l|penna rocha,i|v|de paula antunes teixeira,10
+i|l|penna rocha,i|c|lourencini cavellani,10
+f|joilson|meneguci,i|j|eidi sasaki,23
+f|joilson|meneguci,i|j|sindra virtuoso junior,31
+f|joilson|meneguci,i|a|da silva santos,8
+f|joilson|meneguci,i|h|moraes souza,2
+f|joilson|meneguci,f|divanice|contim,3
+f|joilson|meneguci,i|m|torreglosa ruiz,3
+f|joilson|meneguci,i|w|francisco rodrigues,2
+f|joilson|meneguci,i|d|mara dos santos tavares,4
+f|joilson|meneguci,i|e|lacerda mendes,2
+f|joilson|meneguci,i|f|aparecida dias,4
+i|a|augusto da silva,f|eduardo|crema,26
+i|a|augusto da silva,i|r|margarida etchebehere,2
+i|a|augusto da silva,i|s|jorge adad,2
+i|a|de paula rogerio,i|j|emilio lazo chica,3
+i|a|de paula rogerio,f|marcos|silva,5
+i|a|de paula rogerio,i|f|bernadelli de vito,2
+i|a|de paula rogerio,i|e|lacerda mendes,2
+i|a|de paula rogerio,f|dernival|bertoncello,2
+i|v|jose dias da silva,i|g|ribeiro da mota,3
+i|v|jose dias da silva,i|o|barbosa neto,6
+i|v|jose dias da silva,f|marcos|silva,7
+i|v|jose dias da silva,i|e|lages silva,4
+i|v|jose dias da silva,i|l|eduardo ramırez,3
+i|v|jose dias da silva,f|aluizio|prata,5
+i|v|jose dias da silva,f|dalmo|correia,10
+i|v|jose dias da silva,i|m|antonia dos reis,2
+i|m|marques dos santos felix,f|elizabeth|barichello,17
+i|m|marques dos santos felix,i|l|aparecida ferreira,4
+i|m|marques dos santos felix,i|v|jose haas,5
+i|m|marques dos santos felix,i|k|faria de oliveira,5
+i|h|cristina figueiredo frizzo,i|l|aparecida ferreira,2
+i|a|lucia de assis simoes,i|b|ferreira goulart,8
+i|a|lucia de assis simoes,f|elizabeth|barichello,2
+i|a|lucia de assis simoes,i|d|mara dos santos tavares,6
+i|a|lucia de assis simoes,i|l|resende rodrigues,2
+i|a|lucia de assis simoes,f|divanice|contim,3
+i|a|lucia de assis simoes,i|s|riul da silva,2
+i|a|lucia de assis simoes,i|b|dias miranda parreira,4
 i|d|mara dos santos tavares,i|p|cristina dos santos ferreira,26
+i|d|mara dos santos tavares,i|m|sousa pegorari,10
+i|d|mara dos santos tavares,i|l|resende rodrigues,25
 i|d|mara dos santos tavares,i|g|fiori marchiori,27
 i|d|mara dos santos tavares,i|v|jose haas,11
 i|d|mara dos santos tavares,i|f|aparecida dias,61
 i|d|mara dos santos tavares,i|h|hemiko iwamoto,3
-i|d|mara dos santos tavares,i|a|lucia de assis simoes,6
-i|d|mara dos santos tavares,f|joilson|meneguci,4
 i|d|mara dos santos tavares,i|j|sindra virtuoso junior,3
 i|d|mara dos santos tavares,i|l|aparecida ferreira,2
 i|d|mara dos santos tavares,i|s|riul da silva,2
@@ -236,332 +284,288 @@ i|d|mara dos santos tavares,i|j|ribeiro luiz goncalves,4
 i|d|mara dos santos tavares,i|r|vicente ferreira,2
 i|d|mara dos santos tavares,i|c|lourencini cavellani,2
 i|d|mara dos santos tavares,i|r|rosa miranda correa,2
-i|m|antoniazi michelin,i|e|fernando candido murta,55
-i|m|antoniazi michelin,i|s|jorge adad,8
-i|m|antoniazi michelin,i|r|simoes nomelini,12
-i|m|antoniazi michelin,i|f|carolina ribeiro dias,2
-i|m|antoniazi michelin,i|j|emilio lazo chica,3
-i|e|fernando candido murta,i|b|martins tavares murta,24
-i|e|fernando candido murta,i|r|simoes nomelini,51
-i|e|fernando candido murta,i|s|jorge adad,28
-i|e|fernando candido murta,f|dernival|bertoncello,3
-i|e|fernando candido murta,i|m|carvalho paschoini,3
-i|e|fernando candido murta,i|j|emilio lazo chica,3
-i|e|fernando candido murta,i|l|ronan marquez ferreira de souza,2
-i|j|bonolo do amaral rocha,f|divanice|contim,33
-i|j|bonolo do amaral rocha,i|m|paula custodio silva,26
-i|j|bonolo do amaral rocha,i|b|ferreira goulart,3
-i|j|bonolo do amaral rocha,f|elizabeth|barichello,2
-i|j|bonolo do amaral rocha,i|f|carolina camargo,2
-i|j|bonolo do amaral rocha,i|j|ribeiro luiz goncalves,2
-i|j|bonolo do amaral rocha,i|g|de araujo pereira,2
-i|l|fernanda rodrigues martinho fernandes,i|i|aparecida porcatti de walsh,2
-i|l|fernanda rodrigues martinho fernandes,i|l|aparecida pascucci sande de souza,11
-i|l|fernanda rodrigues martinho fernandes,i|l|jorge patrizzi,2
-i|l|fernanda rodrigues martinho fernandes,f|eduardo|crema,2
-i|l|fernanda rodrigues martinho fernandes,f|dernival|bertoncello,10
-i|l|fernanda rodrigues martinho fernandes,f|karina|pereira,2
-i|s|aparecida de lima pereira,i|d|bertulucci rocha rodrigues,20
-i|s|aparecida de lima pereira,i|m|antonia dos reis,6
-i|s|aparecida de lima pereira,i|v|de paula antunes teixeira,7
-i|s|aparecida de lima pereira,i|s|jorge adad,4
-i|s|aparecida de lima pereira,i|a|paula espindula,6
+i|s|jorge adad,i|e|fernando candido murta,28
+i|s|jorge adad,i|r|margarida etchebehere,10
+i|s|jorge adad,i|b|martins tavares murta,2
+i|s|jorge adad,f|eduardo|crema,7
+i|s|jorge adad,i|d|bertulucci rocha rodrigues,5
+i|s|jorge adad,i|m|antonia dos reis,4
+i|s|jorge adad,i|s|aparecida de lima pereira,4
+i|s|jorge adad,i|j|emilio lazo chica,2
+i|s|jorge adad,i|v|de paula antunes teixeira,2
+i|a|da silva santos,i|j|eidi sasaki,4
+i|a|da silva santos,i|s|regina ribeiro chavaglia,3
+i|a|da silva santos,i|l|augusto alves garcia,26
+i|a|da silva santos,i|r|euripedes da silveira,10
+i|a|da silva santos,i|j|sindra virtuoso junior,2
+i|a|da silva santos,f|divanice|contim,2
+i|a|da silva santos,i|f|carolina camargo,13
+i|a|da silva santos,i|g|de araujo pereira,3
+i|a|da silva santos,i|l|aparecida ferreira,5
+i|a|da silva santos,i|h|hemiko iwamoto,2
+i|a|da silva santos,i|j|ribeiro luiz goncalves,3
 i|m|carvalho paschoini,i|b|dias miranda parreira,5
+i|m|carvalho paschoini,i|m|torreglosa ruiz,16
 i|m|carvalho paschoini,i|m|antonia dos reis,2
 i|m|carvalho paschoini,i|r|rosa miranda correa,2
 i|m|carvalho paschoini,i|k|faria de oliveira,7
-i|m|carvalho paschoini,i|m|aparecida spadotto balarin,3
 i|m|carvalho paschoini,i|s|riul da silva,2
 i|m|carvalho paschoini,i|a|borges peixoto,4
 i|m|carvalho paschoini,i|w|francisco rodrigues,2
+i|m|carvalho paschoini,i|e|fernando candido murta,3
 i|m|carvalho paschoini,i|l|ronan marquez ferreira de souza,2
-i|m|carvalho paschoini,i|r|simoes nomelini,2
-i|r|simoes nomelini,i|b|martins tavares murta,9
-i|r|simoes nomelini,i|s|jorge adad,4
-i|r|simoes nomelini,i|l|ronan marquez ferreira de souza,4
-i|r|simoes nomelini,i|m|vinicius campos souza,3
-i|m|aurelho de lima,i|e|lages silva,4
-i|m|aurelho de lima,i|l|eduardo ramırez,4
-i|m|aurelho de lima,i|m|de fatima borges,6
-i|s|de castro soares,i|c|botelho miguel,6
-i|s|de castro soares,i|j|emilio lazo chica,4
-i|s|de castro soares,i|w|francisco rodrigues,8
-i|s|de castro soares,f|marcos|silva,10
-i|s|de castro soares,i|a|dias paiva,3
-i|s|de castro soares,i|k|ferreira paim,2
-i|m|paula custodio silva,f|divanice|contim,47
-i|m|paula custodio silva,i|b|ferreira goulart,3
-i|m|paula custodio silva,i|a|bernadete trovo de marqui,3
-i|m|paula custodio silva,i|g|de araujo pereira,2
-i|m|paula custodio silva,i|k|faria de oliveira,5
-i|m|paula custodio silva,f|elizabeth|barichello,4
-i|v|jose haas,i|f|aparecida dias,4
-i|v|jose haas,i|p|cristina dos santos ferreira,3
-i|v|jose haas,i|s|riul da silva,3
-i|v|jose haas,i|l|aparecida kauchakje pedrosa,5
-i|v|jose haas,i|m|marques dos santos felix,5
-i|v|jose haas,f|elizabeth|barichello,5
-i|v|jose haas,i|m|helena barbosa,13
-i|v|jose haas,i|l|aparecida ferreira,4
-i|v|jose haas,i|a|bernadete trovo de marqui,2
-i|v|jose haas,i|s|regina ribeiro chavaglia,2
-f|acdm|carneiro,f|fb|vito,38
-f|acdm|carneiro,f|scsv|tanaka,29
-f|acdm|carneiro,i|f|bernadelli de vito,2
-i|s|riul da silva,i|b|dias miranda parreira,15
-i|s|riul da silva,i|b|ferreira goulart,3
-i|s|riul da silva,i|m|aparecida spadotto balarin,5
-i|s|riul da silva,i|g|de araujo pereira,4
-i|s|riul da silva,i|a|lucia de assis simoes,2
-i|s|riul da silva,i|f|aparecida dias,2
-i|d|bertulucci rocha rodrigues,f|marcos|silva,23
-i|d|bertulucci rocha rodrigues,i|m|antonia dos reis,12
-i|d|bertulucci rocha rodrigues,i|v|de paula antunes teixeira,4
-i|d|bertulucci rocha rodrigues,i|j|reis machado,11
-i|d|bertulucci rocha rodrigues,i|j|emilio lazo chica,2
-i|d|bertulucci rocha rodrigues,i|s|jorge adad,5
-i|d|bertulucci rocha rodrigues,f|dalmo|correia,5
-i|d|bertulucci rocha rodrigues,i|e|lages silva,3
-i|d|bertulucci rocha rodrigues,i|f|rodrigues helmo,4
-i|d|bertulucci rocha rodrigues,i|f|bernadelli de vito,4
-i|r|euripedes da silveira,i|a|da silva santos,10
-i|r|euripedes da silveira,f|divanice|contim,3
-i|l|augusto alves garcia,i|a|da silva santos,25
-i|l|augusto alves garcia,i|f|carolina camargo,24
-i|l|augusto alves garcia,i|h|hemiko iwamoto,6
-i|l|augusto alves garcia,i|g|de araujo pereira,8
-i|l|augusto alves garcia,i|l|aparecida ferreira,3
-f|sheilla|tribess,f|joilson|meneguci,24
-f|sheilla|tribess,i|j|eidi sasaki,17
-f|sheilla|tribess,i|j|sindra virtuoso junior,50
-f|sheilla|tribess,i|c|bosquiero papini,3
-i|j|eidi sasaki,i|o|barbosa neto,2
-i|j|eidi sasaki,f|joilson|meneguci,23
-i|j|eidi sasaki,i|j|sindra virtuoso junior,21
-i|j|eidi sasaki,i|a|da silva santos,4
-i|j|eidi sasaki,i|g|ribeiro da mota,11
-i|j|eidi sasaki,i|a|christian ribeiro andaki,3
-i|j|eidi sasaki,i|e|lacerda mendes,4
-i|j|eidi sasaki,i|c|bosquiero papini,3
-f|eduardo|crema,i|s|jorge adad,7
-f|eduardo|crema,i|a|augusto da silva,26
-i|j|emilio lazo chica,i|a|de paula rogerio,3
-i|j|emilio lazo chica,i|c|botelho miguel,13
-i|j|emilio lazo chica,i|w|francisco rodrigues,15
-i|j|emilio lazo chica,f|marcos|silva,2
-i|j|emilio lazo chica,i|s|jorge adad,2
-i|j|emilio lazo chica,i|m|antonia dos reis,2
-i|j|emilio lazo chica,i|v|de paula antunes teixeira,2
-i|j|sindra virtuoso junior,f|joilson|meneguci,31
-i|j|sindra virtuoso junior,i|a|da silva santos,2
+i|l|ronan marquez ferreira de souza,i|f|lera orsatti,4
+i|l|ronan marquez ferreira de souza,i|m|de fatima borges,2
+i|l|ronan marquez ferreira de souza,i|m|vinicius campos souza,2
+i|l|ronan marquez ferreira de souza,i|a|borges peixoto,4
+i|l|ronan marquez ferreira de souza,i|e|fernando candido murta,2
+i|l|de almeida silva teixeira,f|aluizio|prata,5
+i|l|de almeida silva teixeira,i|h|moraes souza,2
+i|l|de almeida silva teixeira,f|marcos|silva,3
+i|j|cesar de souza inacio goncalves,i|r|valentim gelamo,3
+i|j|cesar de souza inacio goncalves,i|d|carneiro ferreira,14
+i|j|cesar de souza inacio goncalves,i|m|s da luz,13
+i|j|cesar de souza inacio goncalves,i|r|guillermo nascimento ferreira,3
+i|b|dias miranda parreira,i|b|ferreira goulart,25
+i|b|dias miranda parreira,i|m|torreglosa ruiz,10
+i|b|dias miranda parreira,i|s|riul da silva,15
+i|b|dias miranda parreira,i|f|aparecida dias,3
+i|b|dias miranda parreira,i|l|resende rodrigues,2
+i|v|de paula antunes teixeira,i|c|lourencini cavellani,35
+i|v|de paula antunes teixeira,i|m|antonia dos reis,54
+i|v|de paula antunes teixeira,i|r|rosa miranda correa,32
+i|v|de paula antunes teixeira,i|d|bertulucci rocha rodrigues,5
+i|v|de paula antunes teixeira,i|s|aparecida de lima pereira,8
+i|v|de paula antunes teixeira,i|d|ferreira da cunha,7
+i|v|de paula antunes teixeira,f|dalmo|correia,2
+i|v|de paula antunes teixeira,i|f|rodrigues helmo,5
+i|v|de paula antunes teixeira,i|m|falangola accioly,2
+i|v|de paula antunes teixeira,i|j|emilio lazo chica,2
+i|h|hemiko iwamoto,i|f|carolina camargo,16
+i|h|hemiko iwamoto,i|g|de araujo pereira,12
+i|h|hemiko iwamoto,i|s|regina ribeiro chavaglia,2
+i|h|hemiko iwamoto,i|l|resende rodrigues,2
+i|h|hemiko iwamoto,i|l|augusto alves garcia,6
+i|h|hemiko iwamoto,i|b|ferreira goulart,3
+i|h|hemiko iwamoto,f|divanice|contim,2
+i|h|hemiko iwamoto,f|elizabeth|barichello,2
+i|m|sousa pegorari,i|l|jorge patrizzi,9
+i|m|sousa pegorari,i|s|gomes novais shimano,2
+i|m|sousa pegorari,i|i|aparecida porcatti de walsh,7
+i|m|sousa pegorari,i|f|aparecida dias,6
+i|m|sousa pegorari,i|p|cristina dos santos ferreira,3
+i|m|sousa pegorari,i|m|falangola accioly,2
+i|m|sousa pegorari,i|l|resende rodrigues,2
+i|m|sousa pegorari,i|g|fiori marchiori,2
+i|f|rodrigues helmo,i|m|antonia dos reis,14
+i|f|rodrigues helmo,i|r|margarida etchebehere,4
+i|f|rodrigues helmo,i|r|rosa miranda correa,14
+i|f|rodrigues helmo,f|marcos|silva,11
+i|f|rodrigues helmo,i|f|bernadelli de vito,3
+i|f|rodrigues helmo,i|h|moraes souza,4
+i|f|rodrigues helmo,i|k|ferreira paim,3
+i|f|rodrigues helmo,i|w|francisco rodrigues,3
+i|f|rodrigues helmo,i|d|bertulucci rocha rodrigues,4
+i|f|rodrigues helmo,i|f|aparecida dias,3
+i|f|rodrigues helmo,i|l|aparecida ferreira,3
+i|f|rodrigues helmo,i|m|de fatima borges,2
+i|f|rodrigues helmo,i|b|ferreira goulart,3
+i|f|rodrigues helmo,i|l|resende rodrigues,3
+i|m|vinicius campos souza,f|marcos|silva,2
+i|m|vinicius campos souza,i|f|lera orsatti,26
+i|m|vinicius campos souza,i|g|vannucchi portari,3
+i|j|sindra virtuoso junior,i|j|eidi sasaki,21
 i|j|sindra virtuoso junior,i|e|lacerda mendes,2
-i|g|vannucchi portari,i|d|ferreira da cunha,6
-i|g|vannucchi portari,i|m|vinicius campos souza,3
-f|afonso|pelli,f|marcos|silva,3
-f|afonso|pelli,i|a|dias paiva,2
-f|afonso|pelli,i|f|bernadelli de vito,3
-i|a|de paula rogerio,f|marcos|silva,5
-i|a|de paula rogerio,i|e|lacerda mendes,2
-i|a|de paula rogerio,i|f|bernadelli de vito,2
-i|a|de paula rogerio,f|dernival|bertoncello,2
-i|k|graciele dos santos,i|m|s da luz,3
-i|a|claudia granato,i|m|hitomi okura,16
-i|a|claudia granato,i|g|roger pointer malpass,33
-i|a|paula espindula,i|v|de paula antunes teixeira,35
-i|a|paula espindula,i|l|aparecida pascucci sande de souza,11
-i|a|paula espindula,i|w|francisco rodrigues,2
-i|a|paula espindula,i|c|lourencini cavellani,12
-i|a|paula espindula,i|r|rosa miranda correa,6
-i|a|paula espindula,i|l|penna rocha,3
-i|a|paula espindula,i|m|antonia dos reis,5
-i|a|paula espindula,f|joilson|meneguci,2
-i|g|roger pointer malpass,i|m|hitomi okura,13
-i|g|roger pointer malpass,i|d|carneiro ferreira,4
+f|divanice|contim,i|j|bonolo do amaral rocha,33
+f|divanice|contim,i|m|paula custodio silva,47
+f|divanice|contim,i|s|elaine malaguti toffano,10
+f|divanice|contim,i|s|regina ribeiro chavaglia,6
+f|divanice|contim,i|j|ribeiro luiz goncalves,6
+f|divanice|contim,i|b|ferreira goulart,8
+f|divanice|contim,i|m|torreglosa ruiz,31
+f|divanice|contim,i|g|de araujo pereira,7
+f|divanice|contim,i|w|francisco rodrigues,3
+f|divanice|contim,i|r|euripedes da silveira,3
+f|divanice|contim,f|elizabeth|barichello,6
+f|divanice|contim,i|f|carolina camargo,4
+f|divanice|contim,i|k|faria de oliveira,5
 i|r|rosa miranda correa,f|marcos|silva,15
-i|r|rosa miranda correa,i|j|reis machado,31
 i|r|rosa miranda correa,i|m|antonia dos reis,51
-i|r|rosa miranda correa,i|f|rodrigues helmo,14
-i|r|rosa miranda correa,i|l|penna rocha,38
+i|r|rosa miranda correa,i|r|margarida etchebehere,5
 i|r|rosa miranda correa,i|c|lourencini cavellani,26
-i|r|rosa miranda correa,i|v|de paula antunes teixeira,32
-i|l|eduardo ramırez,i|a|luiz pedrosa,13
-i|l|eduardo ramırez,i|e|lages silva,32
-i|l|eduardo ramırez,f|marcos|silva,8
-i|l|eduardo ramırez,i|j|reis machado,3
-i|l|eduardo ramırez,i|v|jose dias da silva,3
-i|l|eduardo ramırez,f|dalmo|correia,3
-i|g|jose luvizutto,i|l|aparecida pascucci sande de souza,48
-i|p|donizete colombo,i|d|fernando bovolenta ovigli,17
-i|o|barbosa neto,i|g|ribeiro da mota,15
-i|o|barbosa neto,i|v|jose dias da silva,6
-i|o|barbosa neto,i|e|lacerda mendes,3
-i|o|barbosa neto,i|m|de fatima borges,2
-i|o|barbosa neto,i|m|antonia dos reis,3
-i|o|barbosa neto,f|dalmo|correia,3
-i|r|vicente ferreira,i|f|aparecida dias,4
-i|l|jorge patrizzi,i|l|aparecida pascucci sande de souza,5
+i|h|moraes souza,f|aluizio|prata,2
+i|h|moraes souza,i|f|bernadelli de vito,20
+i|h|moraes souza,i|g|de araujo pereira,19
+i|h|moraes souza,i|e|lages silva,2
+i|h|moraes souza,f|marcos|silva,7
+i|h|moraes souza,i|k|ferreira paim,3
+i|h|moraes souza,i|w|francisco rodrigues,3
+i|h|moraes souza,f|fb|vito,18
+i|h|moraes souza,f|scsv|tanaka,11
+i|r|valentim gelamo,i|m|s da luz,3
+i|r|valentim gelamo,i|j|aparecido moreto,22
+i|r|valentim gelamo,f|marcos|silva,8
+i|r|valentim gelamo,i|d|carneiro ferreira,4
+i|r|euripedes da silveira,i|s|elaine malaguti toffano,2
+i|d|ferreira moreira lobato,i|s|gomes novais shimano,2
+i|d|ferreira moreira lobato,f|dernival|bertoncello,9
 i|l|jorge patrizzi,i|s|gomes novais shimano,11
 i|l|jorge patrizzi,i|i|aparecida porcatti de walsh,17
-i|d|carneiro ferreira,i|m|s da luz,10
-i|g|de araujo pereira,i|f|carolina camargo,17
-i|g|de araujo pereira,i|h|hemiko iwamoto,12
-i|g|de araujo pereira,i|i|aparecida porcatti de walsh,7
-i|g|de araujo pereira,i|f|bernadelli de vito,4
-i|g|de araujo pereira,f|divanice|contim,7
-i|g|de araujo pereira,i|e|lages silva,3
-i|g|de araujo pereira,i|a|da silva santos,3
-i|g|de araujo pereira,i|l|aparecida ferreira,2
-i|m|antonia dos reis,f|marcos|silva,23
-i|m|antonia dos reis,i|j|reis machado,53
-i|m|antonia dos reis,i|f|rodrigues helmo,14
-i|m|antonia dos reis,i|l|penna rocha,37
-i|m|antonia dos reis,i|c|lourencini cavellani,11
-i|m|antonia dos reis,i|v|de paula antunes teixeira,54
-i|m|antonia dos reis,i|d|ferreira da cunha,2
-i|m|antonia dos reis,i|s|jorge adad,4
-i|m|antonia dos reis,f|dalmo|correia,3
-i|m|antonia dos reis,i|v|jose dias da silva,2
-i|c|bosquiero papini,i|a|christian ribeiro andaki,5
-i|j|ribeiro luiz goncalves,f|divanice|contim,6
-i|j|ribeiro luiz goncalves,i|f|aparecida dias,3
-i|j|ribeiro luiz goncalves,i|p|cristina dos santos ferreira,2
-i|j|ribeiro luiz goncalves,i|l|aparecida ferreira,2
-i|j|ribeiro luiz goncalves,i|a|da silva santos,3
-i|d|seithi kato,i|d|fernando bovolenta ovigli,3
-f|elizabeth|barichello,i|m|helena barbosa,58
-f|elizabeth|barichello,i|m|marques dos santos felix,17
-f|elizabeth|barichello,i|a|lucia de assis simoes,2
-f|elizabeth|barichello,i|k|faria de oliveira,15
-f|elizabeth|barichello,f|divanice|contim,6
-f|elizabeth|barichello,i|l|aparecida ferreira,2
-f|elizabeth|barichello,i|d|ferreira da cunha,4
-f|elizabeth|barichello,i|s|regina ribeiro chavaglia,8
-f|elizabeth|barichello,i|h|hemiko iwamoto,2
-f|fb|vito,f|scsv|tanaka,33
-i|g|fiori marchiori,i|f|aparecida dias,8
-i|s|regina ribeiro chavaglia,i|h|hemiko iwamoto,2
-i|s|regina ribeiro chavaglia,f|divanice|contim,6
-i|s|regina ribeiro chavaglia,i|k|faria de oliveira,4
-i|s|regina ribeiro chavaglia,i|m|helena barbosa,17
-i|s|regina ribeiro chavaglia,i|a|da silva santos,3
-i|s|regina ribeiro chavaglia,i|l|aparecida ferreira,9
-f|scsv|tanaka,i|f|bernadelli de vito,2
-i|b|ferreira goulart,i|b|dias miranda parreira,25
-i|b|ferreira goulart,i|a|lucia de assis simoes,8
-i|b|ferreira goulart,f|divanice|contim,8
-i|b|ferreira goulart,i|h|hemiko iwamoto,3
-i|b|ferreira goulart,i|f|rodrigues helmo,3
-i|b|ferreira goulart,i|l|aparecida kauchakje pedrosa,2
-i|s|gomes novais shimano,i|i|aparecida porcatti de walsh,7
-i|s|gomes novais shimano,f|karina|pereira,6
-i|a|borges peixoto,i|l|ronan marquez ferreira de souza,4
-i|l|aparecida kauchakje pedrosa,i|l|aparecida ferreira,2
-i|a|bernadete trovo de marqui,i|m|aparecida spadotto balarin,7
-i|a|bernadete trovo de marqui,i|m|torreglosa ruiz cintra,12
-i|a|bernadete trovo de marqui,i|m|de fatima borges,4
-i|l|aparecida pascucci sande de souza,i|v|de paula antunes teixeira,8
-i|l|aparecida pascucci sande de souza,f|dernival|bertoncello,4
-i|l|aparecida pascucci sande de souza,f|karina|pereira,3
-i|l|aparecida pascucci sande de souza,i|c|lourencini cavellani,2
-f|dernival|bertoncello,i|i|aparecida porcatti de walsh,17
-f|dernival|bertoncello,i|b|martins tavares murta,3
-f|dernival|bertoncello,f|karina|pereira,3
-i|l|de almeida silva teixeira,i|j|reis machado,2
-i|l|de almeida silva teixeira,f|dalmo|correia,2
-i|l|de almeida silva teixeira,f|marcos|silva,3
-i|m|helena barbosa,i|m|marques dos santos felix,39
-i|m|helena barbosa,i|k|faria de oliveira,18
-i|m|helena barbosa,i|a|lucia de assis simoes,2
-i|m|helena barbosa,i|l|aparecida ferreira,9
-i|m|helena barbosa,i|d|ferreira da cunha,4
-i|m|helena barbosa,i|h|hemiko iwamoto,3
-i|l|marina scatena,f|joilson|meneguci,2
-i|l|marina scatena,i|a|da silva santos,2
-i|l|marina scatena,i|m|de fatima borges,3
-i|m|marques dos santos felix,i|l|aparecida ferreira,4
-i|m|marques dos santos felix,i|k|faria de oliveira,5
-i|k|faria de oliveira,i|w|francisco rodrigues,2
-i|k|faria de oliveira,i|d|ferreira da cunha,2
-i|k|faria de oliveira,f|divanice|contim,5
-i|m|vinicius campos souza,f|marcos|silva,2
-i|m|vinicius campos souza,i|l|ronan marquez ferreira de souza,2
-i|l|ronan marquez ferreira de souza,i|m|de fatima borges,2
-i|g|ribeiro da mota,i|v|jose dias da silva,3
-i|g|ribeiro da mota,i|e|lacerda mendes,16
-i|g|ribeiro da mota,i|a|christian ribeiro andaki,3
-i|k|ferreira paim,f|marcos|silva,5
-i|k|ferreira paim,i|a|luiz pedrosa,5
-i|k|ferreira paim,i|e|lages silva,3
-i|k|ferreira paim,i|f|rodrigues helmo,3
-i|k|ferreira paim,i|w|francisco rodrigues,2
-i|w|francisco rodrigues,i|c|botelho miguel,35
+i|l|jorge patrizzi,i|m|falangola accioly,3
+i|w|francisco rodrigues,i|j|emilio lazo chica,15
+i|w|francisco rodrigues,i|s|de castro soares,8
 i|w|francisco rodrigues,f|marcos|silva,12
 i|w|francisco rodrigues,i|a|dias paiva,4
 i|w|francisco rodrigues,i|f|bernadelli de vito,2
-i|w|francisco rodrigues,i|f|rodrigues helmo,3
-i|w|francisco rodrigues,f|divanice|contim,3
-i|w|francisco rodrigues,f|joilson|meneguci,2
-i|w|francisco rodrigues,i|j|reis machado,4
-f|dalmo|correia,i|e|lages silva,14
-f|dalmo|correia,f|marcos|silva,11
-f|dalmo|correia,i|a|luiz pedrosa,3
-f|dalmo|correia,i|v|jose dias da silva,10
-f|dalmo|correia,i|v|de paula antunes teixeira,2
-f|dalmo|correia,i|j|reis machado,4
-i|e|lacerda mendes,i|a|christian ribeiro andaki,28
-i|e|lacerda mendes,f|joilson|meneguci,2
-i|m|de fatima borges,f|marcos|silva,2
-i|m|de fatima borges,i|f|aparecida dias,2
-i|m|de fatima borges,i|f|rodrigues helmo,2
-i|m|de fatima borges,i|l|aparecida ferreira,2
-i|d|ferreira da cunha,i|v|de paula antunes teixeira,7
-i|p|i s maia,i|r|junio de oliveira,7
-i|p|i s maia,f|marcos|silva,2
-i|m|aparecida spadotto balarin,i|m|torreglosa ruiz cintra,6
-i|m|s da luz,i|r|s silva,2
-i|f|aparecida dias,i|p|cristina dos santos ferreira,23
-i|f|aparecida dias,i|l|aparecida ferreira,5
-i|f|aparecida dias,i|b|dias miranda parreira,3
-i|f|aparecida dias,f|joilson|meneguci,4
-i|f|aparecida dias,i|f|rodrigues helmo,3
-i|i|aparecida porcatti de walsh,f|karina|pereira,7
-i|i|aparecida porcatti de walsh,i|f|carolina camargo,2
-i|l|aparecida ferreira,i|f|rodrigues helmo,3
-i|l|aparecida ferreira,i|a|da silva santos,5
+i|w|francisco rodrigues,i|k|ferreira paim,2
+i|w|francisco rodrigues,i|m|torreglosa ruiz,5
+i|w|francisco rodrigues,i|k|faria de oliveira,2
+f|afonso|pelli,f|marcos|silva,3
+f|afonso|pelli,i|a|dias paiva,2
+f|afonso|pelli,i|f|bernadelli de vito,3
+i|s|regina ribeiro chavaglia,i|a|cristina nicolussi,3
+i|s|regina ribeiro chavaglia,i|k|faria de oliveira,4
+i|s|regina ribeiro chavaglia,i|l|aparecida ferreira,9
+i|s|regina ribeiro chavaglia,i|m|torreglosa ruiz,6
+i|s|regina ribeiro chavaglia,f|elizabeth|barichello,8
+i|s|regina ribeiro chavaglia,i|v|jose haas,2
+i|v|jose haas,i|f|aparecida dias,4
+i|v|jose haas,i|p|cristina dos santos ferreira,3
+i|v|jose haas,i|s|riul da silva,3
+i|v|jose haas,f|elizabeth|barichello,5
+i|v|jose haas,i|l|aparecida ferreira,4
+i|v|jose haas,i|a|cristina nicolussi,2
+i|v|jose haas,i|s|elaine malaguti toffano,2
+i|l|aparecida ferreira,i|f|aparecida dias,5
+i|l|aparecida ferreira,f|elizabeth|barichello,2
+i|l|aparecida ferreira,i|l|resende rodrigues,3
+i|l|aparecida ferreira,i|m|de fatima borges,2
 i|l|aparecida ferreira,i|f|carolina camargo,2
-i|c|botelho miguel,f|marcos|silva,3
-i|a|augusto da silva,i|s|jorge adad,2
-i|s|jorge adad,i|b|martins tavares murta,2
-i|s|jorge adad,i|v|de paula antunes teixeira,2
-i|c|lourencini cavellani,i|j|reis machado,2
-i|c|lourencini cavellani,i|v|de paula antunes teixeira,35
-i|c|lourencini cavellani,i|l|penna rocha,10
-i|h|hemiko iwamoto,i|f|carolina camargo,16
-i|h|hemiko iwamoto,f|divanice|contim,2
-i|h|hemiko iwamoto,i|a|da silva santos,2
-i|l|penna rocha,i|f|rodrigues helmo,9
-i|l|penna rocha,i|j|reis machado,27
-i|l|penna rocha,f|marcos|silva,9
-i|l|penna rocha,i|v|de paula antunes teixeira,10
-i|f|rodrigues helmo,i|j|reis machado,15
-i|f|rodrigues helmo,f|marcos|silva,11
-i|f|rodrigues helmo,i|f|bernadelli de vito,3
-i|f|rodrigues helmo,i|v|de paula antunes teixeira,5
-i|b|dias miranda parreira,i|a|lucia de assis simoes,4
+i|l|aparecida ferreira,i|g|de araujo pereira,2
+i|l|aparecida ferreira,i|l|augusto alves garcia,3
+i|l|aparecida ferreira,i|j|ribeiro luiz goncalves,2
+i|l|aparecida ferreira,i|a|cristina nicolussi,2
+i|m|de fatima borges,f|marcos|silva,2
+i|m|de fatima borges,i|o|barbosa neto,2
+i|m|de fatima borges,i|m|aurelho de lima,6
+i|m|de fatima borges,i|f|aparecida dias,2
+i|o|barbosa neto,i|j|eidi sasaki,2
+i|o|barbosa neto,i|g|ribeiro da mota,15
+i|o|barbosa neto,i|f|lera orsatti,3
+i|o|barbosa neto,i|e|lacerda mendes,3
+i|o|barbosa neto,i|m|antonia dos reis,3
+i|o|barbosa neto,f|dalmo|correia,3
 i|f|bernadelli de vito,f|marcos|silva,13
-i|f|bernadelli de vito,i|j|reis machado,2
-i|f|bernadelli de vito,i|a|luiz pedrosa,2
-i|e|lages silva,i|a|luiz pedrosa,16
+i|f|bernadelli de vito,i|g|de araujo pereira,3
+i|f|bernadelli de vito,i|d|bertulucci rocha rodrigues,4
+i|f|bernadelli de vito,f|scsv|tanaka,2
+i|r|margarida etchebehere,f|marcos|silva,2
+i|r|margarida etchebehere,i|m|antonia dos reis,5
+i|r|margarida etchebehere,i|g|de araujo pereira,2
+i|r|margarida etchebehere,i|d|bertulucci rocha rodrigues,4
+i|r|margarida etchebehere,i|s|aparecida de lima pereira,8
+i|r|margarida etchebehere,i|e|fernando candido murta,8
+i|r|margarida etchebehere,i|j|emilio lazo chica,2
+i|r|margarida etchebehere,f|eduardo|crema,3
+i|a|dias paiva,i|s|de castro soares,3
+f|karina|pereira,i|i|aparecida porcatti de walsh,7
+f|karina|pereira,i|s|gomes novais shimano,6
+f|karina|pereira,f|dernival|bertoncello,3
+i|m|aurelho de lima,i|e|lages silva,4
+i|m|aurelho de lima,i|l|eduardo ramırez,4
+i|a|cristina nicolussi,i|s|elaine malaguti toffano,9
+i|a|cristina nicolussi,i|k|faria de oliveira,3
+i|a|cristina nicolussi,f|elizabeth|barichello,7
+i|a|cristina nicolussi,i|b|ferreira goulart,4
+i|a|cristina nicolussi,i|m|torreglosa ruiz,3
+i|e|lages silva,f|dalmo|correia,14
+i|e|lages silva,i|l|eduardo ramırez,32
 i|e|lages silva,f|marcos|silva,7
-i|e|lages silva,i|j|reis machado,4
-i|e|lages silva,i|v|jose dias da silva,4
-i|a|da silva santos,f|joilson|meneguci,8
-i|a|da silva santos,i|f|carolina camargo,13
-i|a|da silva santos,f|divanice|contim,2
-i|v|de paula antunes teixeira,i|j|reis machado,5
-i|f|carolina camargo,f|divanice|contim,4
-i|a|lucia de assis simoes,f|divanice|contim,3
-f|divanice|contim,f|joilson|meneguci,3
-i|j|reis machado,f|marcos|silva,52
-i|j|reis machado,i|v|jose dias da silva,3
-f|marcos|silva,i|v|jose dias da silva,7
+i|e|lages silva,i|k|ferreira paim,3
+i|e|lages silva,i|g|de araujo pereira,3
+i|e|lages silva,f|aluizio|prata,3
+i|e|lages silva,i|d|bertulucci rocha rodrigues,3
+i|m|s da luz,i|d|carneiro ferreira,10
+i|m|s da luz,i|k|graciele dos santos,3
+i|b|ferreira goulart,i|m|torreglosa ruiz,9
+i|b|ferreira goulart,i|s|riul da silva,3
+i|b|ferreira goulart,i|j|bonolo do amaral rocha,3
+i|b|ferreira goulart,i|m|paula custodio silva,3
+i|b|ferreira goulart,i|l|resende rodrigues,10
+i|l|resende rodrigues,i|f|aparecida dias,9
+i|l|resende rodrigues,i|p|cristina dos santos ferreira,6
+i|g|fiori marchiori,i|f|aparecida dias,8
+i|f|lera orsatti,i|e|fernando candido murta,14
+i|f|lera orsatti,i|g|vannucchi portari,8
+i|f|lera orsatti,i|g|ribeiro da mota,5
+i|f|lera orsatti,f|marcos|silva,2
+i|f|lera orsatti,i|j|emilio lazo chica,3
+i|d|fernando bovolenta ovigli,i|d|seithi kato,3
+f|scsv|tanaka,f|fb|vito,33
+i|e|lacerda mendes,i|g|ribeiro da mota,16
+i|e|lacerda mendes,i|j|eidi sasaki,4
+i|s|de castro soares,i|j|emilio lazo chica,4
+i|s|de castro soares,f|marcos|silva,10
+i|s|de castro soares,i|k|ferreira paim,2
+i|r|vicente ferreira,i|f|aparecida dias,4
+i|l|augusto alves garcia,i|f|carolina camargo,24
+i|l|augusto alves garcia,i|g|de araujo pereira,8
+i|i|aparecida porcatti de walsh,f|dernival|bertoncello,18
+i|i|aparecida porcatti de walsh,i|g|de araujo pereira,7
+i|i|aparecida porcatti de walsh,i|m|falangola accioly,9
+i|i|aparecida porcatti de walsh,i|s|gomes novais shimano,7
+i|i|aparecida porcatti de walsh,i|f|carolina camargo,2
+f|dalmo|correia,f|aluizio|prata,13
+f|dalmo|correia,f|marcos|silva,10
+f|dalmo|correia,i|l|eduardo ramırez,3
+f|dalmo|correia,i|m|antonia dos reis,3
+f|dalmo|correia,i|d|bertulucci rocha rodrigues,4
+i|f|carolina camargo,i|g|de araujo pereira,17
+i|f|carolina camargo,i|j|bonolo do amaral rocha,2
+i|c|bosquiero papini,i|j|eidi sasaki,3
+i|l|eduardo ramırez,f|marcos|silva,8
+i|l|eduardo ramırez,f|aluizio|prata,2
+i|j|eidi sasaki,i|g|ribeiro da mota,11
+i|j|ribeiro luiz goncalves,i|j|bonolo do amaral rocha,2
+i|j|ribeiro luiz goncalves,i|f|aparecida dias,3
+i|j|ribeiro luiz goncalves,i|p|cristina dos santos ferreira,2
+i|m|antonia dos reis,f|marcos|silva,23
+i|m|antonia dos reis,i|c|lourencini cavellani,11
+i|m|antonia dos reis,i|d|bertulucci rocha rodrigues,12
+i|m|antonia dos reis,i|s|aparecida de lima pereira,6
+i|m|antonia dos reis,i|d|ferreira da cunha,2
+i|m|antonia dos reis,i|j|emilio lazo chica,2
+i|m|antonia dos reis,f|aluizio|prata,2
+i|s|riul da silva,i|m|torreglosa ruiz,12
+i|s|riul da silva,i|g|de araujo pereira,4
+i|s|riul da silva,i|f|aparecida dias,2
+f|marcos|silva,i|d|bertulucci rocha rodrigues,23
+f|marcos|silva,i|k|ferreira paim,5
+f|marcos|silva,i|j|aparecido moreto,5
+f|marcos|silva,i|m|de lucca moreira gomes,2
+f|marcos|silva,i|j|emilio lazo chica,2
+i|s|aparecida de lima pereira,i|d|bertulucci rocha rodrigues,21
+i|d|carneiro ferreira,i|j|aparecido moreto,2
+i|m|torreglosa ruiz,i|m|paula custodio silva,17
+i|m|torreglosa ruiz,i|k|faria de oliveira,14
+i|m|torreglosa ruiz,i|j|bonolo do amaral rocha,6
+i|m|torreglosa ruiz,i|g|de araujo pereira,2
+i|m|torreglosa ruiz,f|elizabeth|barichello,5
+f|dernival|bertoncello,i|b|martins tavares murta,3
+f|dernival|bertoncello,i|e|fernando candido murta,3
+i|g|vannucchi portari,i|d|ferreira da cunha,6
+i|p|cristina dos santos ferreira,i|f|aparecida dias,23
+i|m|paula custodio silva,i|j|bonolo do amaral rocha,26
+i|m|paula custodio silva,i|s|elaine malaguti toffano,3
+i|m|paula custodio silva,i|g|de araujo pereira,2
+i|m|paula custodio silva,i|k|faria de oliveira,5
+i|m|paula custodio silva,f|elizabeth|barichello,4
+i|j|emilio lazo chica,i|d|bertulucci rocha rodrigues,2
+i|j|emilio lazo chica,i|e|fernando candido murta,3
+i|j|bonolo do amaral rocha,f|elizabeth|barichello,2
+i|j|bonolo do amaral rocha,i|g|de araujo pereira,2
+i|f|carolina ribeiro dias,i|m|de lucca moreira gomes,16
+i|e|fernando candido murta,i|b|martins tavares murta,25
+f|elizabeth|barichello,i|k|faria de oliveira,15
+f|elizabeth|barichello,i|d|ferreira da cunha,4
+i|d|ferreira da cunha,i|k|faria de oliveira,2

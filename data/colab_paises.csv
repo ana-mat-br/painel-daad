@@ -1,90 +1,92 @@
 pais,cod,n
-Brazil,https://openalex.org/countries/BR,12227
-United States of America,https://openalex.org/countries/US,897
-Portugal,https://openalex.org/countries/PT,325
-Spain,https://openalex.org/countries/ES,274
-United Kingdom of Great Britain and Northern Ireland,https://openalex.org/countries/GB,247
-France,https://openalex.org/countries/FR,203
-Germany,https://openalex.org/countries/DE,197
-Italy,https://openalex.org/countries/IT,159
-Chile,https://openalex.org/countries/CL,155
+Brazil,https://openalex.org/countries/BR,12377
+United States,https://openalex.org/countries/US,899
+Portugal,https://openalex.org/countries/PT,337
+Spain,https://openalex.org/countries/ES,286
+United Kingdom,https://openalex.org/countries/GB,255
+France,https://openalex.org/countries/FR,208
+Germany,https://openalex.org/countries/DE,202
+Italy,https://openalex.org/countries/IT,166
+Chile,https://openalex.org/countries/CL,162
 Uruguay,https://openalex.org/countries/UY,138
-Canada,https://openalex.org/countries/CA,108
-China,https://openalex.org/countries/CN,108
-Netherlands,https://openalex.org/countries/NL,105
-Switzerland,https://openalex.org/countries/CH,101
-Argentina,https://openalex.org/countries/AR,96
-Colombia,https://openalex.org/countries/CO,86
-Poland,https://openalex.org/countries/PL,85
-Australia,https://openalex.org/countries/AU,76
-Belgium,https://openalex.org/countries/BE,75
-Mexico,https://openalex.org/countries/MX,71
-Russian Federation,https://openalex.org/countries/RU,71
-India,https://openalex.org/countries/IN,59
-Peru,https://openalex.org/countries/PE,51
+Netherlands,https://openalex.org/countries/NL,113
+China,https://openalex.org/countries/CN,110
+Canada,https://openalex.org/countries/CA,109
+Switzerland,https://openalex.org/countries/CH,106
+Argentina,https://openalex.org/countries/AR,99
+Poland,https://openalex.org/countries/PL,91
+Colombia,https://openalex.org/countries/CO,89
+Australia,https://openalex.org/countries/AU,78
+Russia,https://openalex.org/countries/RU,78
+Mexico,https://openalex.org/countries/MX,77
+Belgium,https://openalex.org/countries/BE,76
+India,https://openalex.org/countries/IN,60
+Peru,https://openalex.org/countries/PE,52
+Czechia,https://openalex.org/countries/CZ,39
 Sweden,https://openalex.org/countries/SE,39
-Czechia,https://openalex.org/countries/CZ,38
 Japan,https://openalex.org/countries/JP,34
-Sao Tome and Principe,https://openalex.org/countries/ST,34
+São Tomé & Príncipe,https://openalex.org/countries/ST,34
 Ireland,https://openalex.org/countries/IE,28
-Angola,https://openalex.org/countries/AO,27
 New Zealand,https://openalex.org/countries/NZ,26
+Angola,https://openalex.org/countries/AO,25
 Ecuador,https://openalex.org/countries/EC,22
 Paraguay,https://openalex.org/countries/PY,20
-Denmark,https://openalex.org/countries/DK,18
 Guatemala,https://openalex.org/countries/GT,18
 Indonesia,https://openalex.org/countries/ID,18
+Mozambique,https://openalex.org/countries/MZ,18
 Costa Rica,https://openalex.org/countries/CR,17
-Mozambique,https://openalex.org/countries/MZ,17
+Denmark,https://openalex.org/countries/DK,17
+Norway,https://openalex.org/countries/NO,17
+South Korea,https://openalex.org/countries/KR,16
 Turkey,https://openalex.org/countries/TR,16
-Austria,https://openalex.org/countries/AT,15
-"Korea, Republic of",https://openalex.org/countries/KR,15
-Norway,https://openalex.org/countries/NO,15
-"Venezuela, Bolivarian Republic of",https://openalex.org/countries/VE,14
-Finland,https://openalex.org/countries/FI,13
-Cuba,https://openalex.org/countries/CU,12
+Finland,https://openalex.org/countries/FI,15
+Austria,https://openalex.org/countries/AT,14
+Venezuela,https://openalex.org/countries/VE,14
+Cuba,https://openalex.org/countries/CU,13
+Hong Kong,https://openalex.org/countries/HK,12
 Hungary,https://openalex.org/countries/HU,12
-"Bolivia, Plurinational State of",https://openalex.org/countries/BO,11
-Greece,https://openalex.org/countries/GR,11
+Bangladesh,https://openalex.org/countries/BD,11
+Bolivia,https://openalex.org/countries/BO,11
+Israel,https://openalex.org/countries/IL,11
 Jordan,https://openalex.org/countries/JO,11
-Dominican Republic,https://openalex.org/countries/DO,10
-Israel,https://openalex.org/countries/IL,10
+Dominican Rep.,https://openalex.org/countries/DO,10
+Greece,https://openalex.org/countries/GR,10
 Panama,https://openalex.org/countries/PA,10
+Philippines,https://openalex.org/countries/PH,10
 Saudi Arabia,https://openalex.org/countries/SA,10
-Bangladesh,https://openalex.org/countries/BD,9
 South Africa,https://openalex.org/countries/ZA,9
 United Arab Emirates,https://openalex.org/countries/AE,8
-Hong Kong,https://openalex.org/countries/HK,8
-"Iran, Islamic Republic of",https://openalex.org/countries/IR,8
+Iran,https://openalex.org/countries/IR,8
 Kenya,https://openalex.org/countries/KE,8
+Thailand,https://openalex.org/countries/TH,8
 Egypt,https://openalex.org/countries/EG,7
 Sudan,https://openalex.org/countries/SD,7
+Slovakia,https://openalex.org/countries/SK,7
 Curaçao,https://openalex.org/countries/CW,6
 Malaysia,https://openalex.org/countries/MY,6
 Nicaragua,https://openalex.org/countries/NI,6
-Philippines,https://openalex.org/countries/PH,6
 Pakistan,https://openalex.org/countries/PK,6
-Slovakia,https://openalex.org/countries/SK,6
-Thailand,https://openalex.org/countries/TH,6
-"Taiwan, Province of China",https://openalex.org/countries/TW,6
 Ukraine,https://openalex.org/countries/UA,6
-Viet Nam,https://openalex.org/countries/VN,6
+Vietnam,https://openalex.org/countries/VN,6
 Algeria,https://openalex.org/countries/DZ,5
 Nigeria,https://openalex.org/countries/NG,5
-Puerto Rico,https://openalex.org/countries/PR,5
-Slovenia,https://openalex.org/countries/SI,5
+Taiwan,https://openalex.org/countries/TW,5
 Ghana,https://openalex.org/countries/GH,4
+Puerto Rico,https://openalex.org/countries/PR,4
 Romania,https://openalex.org/countries/RO,4
 Serbia,https://openalex.org/countries/RS,4
 Singapore,https://openalex.org/countries/SG,4
+Slovenia,https://openalex.org/countries/SI,4
 Bulgaria,https://openalex.org/countries/BG,3
 Belarus,https://openalex.org/countries/BY,3
 Croatia,https://openalex.org/countries/HR,3
+Lithuania,https://openalex.org/countries/LT,3
 Morocco,https://openalex.org/countries/MA,3
 Qatar,https://openalex.org/countries/QA,3
 Somalia,https://openalex.org/countries/SO,3
 Tunisia,https://openalex.org/countries/TN,3
-Bosnia and Herzegovina,https://openalex.org/countries/BA,2
+American Samoa,https://openalex.org/countries/AS,2
+Bosnia & Herzegovina,https://openalex.org/countries/BA,2
 Benin,https://openalex.org/countries/BJ,2
 Estonia,https://openalex.org/countries/EE,2
 Ethiopia,https://openalex.org/countries/ET,2
@@ -92,12 +94,11 @@ Guinea-Bissau,https://openalex.org/countries/GW,2
 Honduras,https://openalex.org/countries/HN,2
 Cambodia,https://openalex.org/countries/KH,2
 Lebanon,https://openalex.org/countries/LB,2
-Lithuania,https://openalex.org/countries/LT,2
 Luxembourg,https://openalex.org/countries/LU,2
-"Moldova, Republic of",https://openalex.org/countries/MD,2
+Moldova,https://openalex.org/countries/MD,2
+Uzbekistan,https://openalex.org/countries/UZ,2
 Yemen,https://openalex.org/countries/YE,2
 Armenia,https://openalex.org/countries/AM,1
-American Samoa,https://openalex.org/countries/AS,1
 Barbados,https://openalex.org/countries/BB,1
 Burkina Faso,https://openalex.org/countries/BF,1
 Cameroon,https://openalex.org/countries/CM,1
@@ -117,7 +118,7 @@ Nepal,https://openalex.org/countries/NP,1
 Réunion,https://openalex.org/countries/RE,1
 South Sudan,https://openalex.org/countries/SS,1
 El Salvador,https://openalex.org/countries/SV,1
-Syrian Arab Republic,https://openalex.org/countries/SY,1
-Trinidad and Tobago,https://openalex.org/countries/TT,1
+Syria,https://openalex.org/countries/SY,1
+Trinidad & Tobago,https://openalex.org/countries/TT,1
 Uganda,https://openalex.org/countries/UG,1
-Uzbekistan,https://openalex.org/countries/UZ,1
+Zambia,https://openalex.org/countries/ZM,1
